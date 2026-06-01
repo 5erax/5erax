@@ -1,6 +1,5 @@
 <div align="center">
-<!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=SeraxNyxie&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Nature%20Dreamer%20%C2%B7%20Code%20Poet&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Lagna.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Nature%20Dreamer%20%C2%B7%20Code%20Poet&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=22&duration=3500&pause=1000&color=C050A0&center=true&vCenter=true&repeat=true&width=620&height=60&lines=const+life+%3D+%7B+code%3A+true%2C+nature%3A+true+%7D+%F0%9F%8C%B8;Building+beautiful+things%2C+one+commit+at+a+time+%F0%9F%8D%83;Chasing+that+Ghibli+feeling+in+every+UI+%F0%9F%8C%BF)](https://git.io/typing-svg)
 
@@ -26,7 +25,7 @@
 <tr>
 <td width="38%" valign="top">
 
-**SeraxNyxie** 🌸
+**Lagna.** 🌸
 `Fullstack Developer · Code Poet`
 📍 Vietnam 🇻🇳 · UTC+7
 
@@ -43,8 +42,9 @@
 <td width="62%" valign="top">
 
 ```typescript
-const SeraxNyxie = {
-  name      : "SeraxNyxie",
+const Lagna = {
+  name      : "Lagna.",
+  alias     : "5erax",
   role      : "Fullstack Developer",
   location  : "Vietnam 🇻🇳",
   stacks    : ["React", "Node.js",
@@ -160,18 +160,15 @@ Thesis on distributed systems
 
 <div align="center">
 
-<a href="https://github.com/5erax">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=5erax&show_icons=true&hide_border=true&bg_color=fff5fb&title_color=c060a0&icon_color=e080c0&text_color=705090&ring_color=f0a0d0&count_private=true&rank_icon=github&cache_seconds=21600" />
-</a>
-<a href="https://github.com/5erax">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5erax&layout=compact&hide_border=true&bg_color=fff5fb&title_color=c060a0&text_color=705090&langs_count=6&card_width=320&cache_seconds=21600" />
-</a>
+![Lagna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5erax&show_icons=true&hide_border=true&bg_color=fff5fb&title_color=c060a0&icon_color=e080c0&text_color=705090&ring_color=f0a0d0&count_private=true&rank_icon=github&cache_seconds=21600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5erax&layout=compact&hide_border=true&bg_color=fff5fb&title_color=c060a0&text_color=705090&langs_count=6&card_width=445&cache_seconds=21600)
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=5erax&hide_border=true&background=FFF5FB&stroke=F0C0D8&ring=E060A0&fire=FF6090&currStreakLabel=C060A0&sideNums=9060B0&sideLabels=C090C0&dates=C0A0C8" width="56%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=5erax&hide_border=true&background=FFF5FB&stroke=F0C0D8&ring=E060A0&fire=FF6090&currStreakLabel=C060A0&sideNums=9060B0&sideLabels=C090C0&dates=C0A0C8)
 
 </div>
 
@@ -181,7 +178,7 @@ Thesis on distributed systems
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=5erax&bg_color=fff5fb&color=c060a0&line=e090c8&point=a040a0&area=true&area_color=f8d0e8&hide_border=true&radius=8" width="100%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=5erax&bg_color=fff5fb&color=c060a0&line=e090c8&point=a040a0&area=true&area_color=f8d0e8&hide_border=true&radius=8)
 
 </div>
 
@@ -298,7 +295,7 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/🌿_GitHub-SeraxNyxie-c0a0ff?style=for-the-badge&labelColor=f5f0ff)](https://github.com/5erax)
+[![GitHub](https://img.shields.io/badge/🌿_GitHub-5erax-c0a0ff?style=for-the-badge&labelColor=f5f0ff)](https://github.com/5erax)
 [![LinkedIn](https://img.shields.io/badge/🌊_LinkedIn-Connect-6ba3e8?style=for-the-badge&labelColor=f0f5ff)](https://linkedin.com/in/dha2608)
 [![Portfolio](https://img.shields.io/badge/🍀_Portfolio-Visit-80c8a0?style=for-the-badge&labelColor=f0fff5)](https://dha2608.vercel.app)
 [![Email](https://img.shields.io/badge/🌸_Email-Say_Hi-f0a0c0?style=for-the-badge&labelColor=fff5fb)](mailto:dha2608@gmail.com)
