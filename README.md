@@ -160,9 +160,15 @@ Thesis on distributed systems
 
 <div align="center">
 
-![Lagna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5erax&show_icons=true&hide_border=true&bg_color=fff5fb&title_color=c060a0&icon_color=e080c0&text_color=705090&ring_color=f0a0d0&count_private=true&rank_icon=github&cache_seconds=21600)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&theme=rose_pine" width="100%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5erax&layout=compact&hide_border=true&bg_color=fff5fb&title_color=c060a0&text_color=705090&langs_count=6&card_width=445&cache_seconds=21600)
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5erax&theme=rose_pine" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5erax&theme=rose_pine" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5erax&theme=rose_pine" width="32%"/>
 
 </div>
 
