@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Lagna.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Nature%20Dreamer%20%C2%B7%20Code%20Poet&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Lagna.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=22&duration=3500&pause=1000&color=C050A0&center=true&vCenter=true&repeat=true&width=620&height=60&lines=const+life+%3D+%7B+code%3A+true%2C+nature%3A+true+%7D+%F0%9F%8C%B8;Building+beautiful+things%2C+one+commit+at+a+time+%F0%9F%8D%83;Chasing+that+Ghibli+feeling+in+every+UI+%F0%9F%8C%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=22&duration=3500&pause=1000&color=C050A0&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Building+practical+web+and+mobile+apps;Working+with+React%2C+TypeScript%2C+Node.js+and+Spring+Boot;Focused+on+clean+UI+and+maintainable+code)](https://git.io/typing-svg)
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%8C%B8_Open_to_Work-ff80b0?style=for-the-badge&labelColor=fff0f6&color=ff80b0)
-![Fullstack Dev](https://img.shields.io/badge/%F0%9F%8D%83_Fullstack_Dev-9b7fd4?style=for-the-badge&labelColor=f5f0ff&color=9b7fd4)
-![Ghibli Fan](https://img.shields.io/badge/%F0%9F%8C%BF_Ghibli_Fan-6ba3e8?style=for-the-badge&labelColor=f0f5ff&color=6ba3e8)
-![Coffee Driven](https://img.shields.io/badge/%E2%98%95_Coffee_Driven-3a9a6a?style=for-the-badge&labelColor=f0fff8&color=3a9a6a)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-ff80b0?style=for-the-badge&labelColor=fff0f6&color=ff80b0)
+![Fullstack Dev](https://img.shields.io/badge/Fullstack_Dev-9b7fd4?style=for-the-badge&labelColor=f5f0ff&color=9b7fd4)
+![React + Node.js](https://img.shields.io/badge/React_%2B_Node.js-6ba3e8?style=for-the-badge&labelColor=f0f5ff&color=6ba3e8)
+![Vietnam UTC+7](https://img.shields.io/badge/Vietnam_UTC%2B7-3a9a6a?style=for-the-badge&labelColor=f0fff8&color=3a9a6a)
 
 <br/>
 
@@ -19,24 +19,24 @@
 
 ---
 
-## 🌿 About Me
+## About Me
 
 <table>
 <tr>
 <td width="38%" valign="top">
 
-**Lagna.** 🌸
-`Fullstack Developer · Code Poet`
-📍 Vietnam 🇻🇳 · UTC+7
+**Lagna.**  
+`Fullstack Developer`  
+Vietnam · UTC+7
 
 ---
 
-🌸 Open to Work
-🍃 Clean Code Advocate
-🎌 Ghibli Enthusiast
-☕ Coffee-powered
-🌿 Open Source
-🎵 Coding with OSTs
+Open to Work  
+Frontend & Backend  
+React / TypeScript  
+Node.js / Spring Boot  
+Clean UI  
+API Integration
 
 </td>
 <td width="62%" valign="top">
@@ -46,12 +46,11 @@ const Lagna = {
   name      : "Lagna.",
   alias     : "5erax",
   role      : "Fullstack Developer",
-  location  : "Vietnam 🇻🇳",
+  location  : "Vietnam",
   stacks    : ["React", "Node.js",
                "TypeScript", "Spring Boot"],
-  building  : "FinGenie — AI expense app 🌸",
-  funFact   : "Debugging to Ghibli OSTs 🎵🌲",
-  // currently vibing to: Joe Hisaishi
+  building  : "FinGenie — AI expense app",
+  interests : ["UI design", "API integration", "mobile apps"],
 };
 ```
 
@@ -59,16 +58,17 @@ const Lagna = {
 </tr>
 </table>
 
-> Hey! I'm a Fullstack Developer who writes clean code by day and walks through **Ghibli forests** by night 🌲🌙
+> Hi, I'm a fullstack developer who enjoys building practical web and mobile applications.
 >
-> I believe great software, like great anime, **tells a story**.
-> I build with **React & Node.js**, obsess over UI details, and chase that feeling when everything just *flows* — like wind through the grass in Totoro's meadow 🍀
+> I mainly work with **React, TypeScript, Node.js, and Spring Boot**. I care about readable code, clear user flows, and interfaces that are simple to use.
+>
+> I am currently working on **FinGenie**, an AI-powered expense management app.
 
 ---
 
-## ⚗️ Tech Stack
+## Tech Stack
 
-**🌸 Frontend**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![Next.js](https://img.shields.io/badge/Next.js-f0eeff?style=flat-square&logo=nextdotjs&logoColor=4838a0)
@@ -76,14 +76,14 @@ const Lagna = {
 ![React Native](https://img.shields.io/badge/React_Native-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![Figma](https://img.shields.io/badge/Figma-fff3f0?style=flat-square&logo=figma&logoColor=c85030)
 
-**🌿 Backend**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-ecfff0?style=flat-square&logo=springboot&logoColor=287828)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-edf2ff?style=flat-square&logo=postgresql&logoColor=285888)
 ![MongoDB](https://img.shields.io/badge/MongoDB-f0fff4?style=flat-square&logo=mongodb&logoColor=1a7030)
 
-**🍀 DevOps & Tools**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-e8f5ff?style=flat-square&logo=docker&logoColor=006898)
 ![Git](https://img.shields.io/badge/Git-fff0ee?style=flat-square&logo=git&logoColor=b03020)
@@ -91,21 +91,20 @@ const Lagna = {
 
 ---
 
-## 🌲 My Journey
+## My Journey
 
 <table>
 <tr>
 <td width="18%" align="center">
 
-🌸
-**2024**
+**2024**  
 **— now**
 
 </td>
 <td width="82%">
 
-**Fullstack Developer**
-Building production-grade web & mobile apps
+**Fullstack Developer**  
+Building web and mobile applications with a focus on clean architecture and usable interfaces.
 
 ![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
@@ -118,14 +117,13 @@ Building production-grade web & mobile apps
 <tr>
 <td width="18%" align="center">
 
-🍃
 **2023**
 
 </td>
 <td width="82%">
 
-**Frontend Intern**
-Crafting pixel-perfect interfaces & design systems
+**Frontend Intern**  
+Worked on responsive layouts, reusable components, and interface consistency.
 
 ![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
@@ -136,15 +134,14 @@ Crafting pixel-perfect interfaces & design systems
 <tr>
 <td width="18%" align="center">
 
-🌿
-**2020**
+**2020**  
 **— 2024**
 
 </td>
 <td width="82%">
 
-**B.Sc. Computer Science** · Graduated with distinction
-Thesis on distributed systems
+**Computer Science Studies**  
+Built a foundation in programming, databases, algorithms, and software development.
 
 ![Algorithms](https://img.shields.io/badge/Algorithms-f5eeff?style=flat-square&logoColor=7040b8)
 ![Databases](https://img.shields.io/badge/Databases-edfff2?style=flat-square&logoColor=287828)
@@ -156,7 +153,7 @@ Thesis on distributed systems
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -180,7 +177,7 @@ Thesis on distributed systems
 
 ---
 
-## 🌱 Contribution Garden
+## Contribution Garden
 
 <div align="center">
 
@@ -190,16 +187,16 @@ Thesis on distributed systems
 
 ---
 
-## 🍀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 [GeoConnect](https://github.com/5erax/geoconnect)
-> Social network theo vị trí địa lý
+### [GeoConnect](https://github.com/5erax/geoconnect)
+> Location-based social networking app
 
-Kết nối người dùng gần nhau, khám phá địa điểm & sự kiện xung quanh theo thời gian thực 🗺️
+Connects nearby users and helps them discover places and events around them in real time.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
 ![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
@@ -209,10 +206,10 @@ Kết nối người dùng gần nhau, khám phá địa điểm & sự kiện x
 </td>
 <td width="50%" valign="top">
 
-### ✨ [CVmate](https://github.com/5erax/CVmate)
-> AI tự động sinh CV chuyên nghiệp
+### [CVmate](https://github.com/5erax/CVmate)
+> AI-assisted CV builder
 
-Nhập thông tin, AI phân tích & sinh ra CV đẹp sẵn sàng xuất PDF trong vài giây 📄
+Helps users generate a structured CV and export it to PDF with less manual formatting.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-fffae8?style=flat-square&logo=javascript&logoColor=a87800)
 ![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
@@ -224,10 +221,10 @@ Nhập thông tin, AI phân tích & sinh ra CV đẹp sẵn sàng xuất PDF tro
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [Ecomerce Mobile](https://github.com/5erax/ecomerce-mobile)
-> App mua sắm đa nền tảng React Native
+### [Ecomerce Mobile](https://github.com/5erax/ecomerce-mobile)
+> Cross-platform shopping app
 
-Duyệt sản phẩm, giỏ hàng, thanh toán và theo dõi đơn hàng mượt mà 📦
+Mobile shopping app with product browsing, cart management, checkout, and order tracking.
 
 ![React Native](https://img.shields.io/badge/React_Native-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
@@ -236,10 +233,10 @@ Duyệt sản phẩm, giỏ hàng, thanh toán và theo dõi đơn hàng mượt
 </td>
 <td width="50%" valign="top">
 
-### 🌸 [Flowery](https://github.com/5erax/Flowery)
-> Website shop hoa online tinh tế
+### [Flowery](https://github.com/5erax/Flowery)
+> Online flower shop website
 
-Duyệt danh mục hoa, đặt hàng và tặng quà với giao diện pastel tươi sáng 🌺
+Flower shop website with product categories, ordering flow, and a clean pastel interface.
 
 ![HTML](https://img.shields.io/badge/HTML-fff5f0?style=flat-square&logo=html5&logoColor=b04020)
 ![CSS](https://img.shields.io/badge/CSS-f0f5ff?style=flat-square&logo=css3&logoColor=2848b8)
@@ -250,10 +247,10 @@ Duyệt danh mục hoa, đặt hàng và tặng quà với giao diện pastel t�
 <tr>
 <td width="50%" valign="top">
 
-### 🌏 [MLN Web](https://github.com/5erax/MLN-web)
-> Website học tập môn Mác-Lênin
+### [MLN Web](https://github.com/5erax/MLN-web)
+> Learning website for Mác-Lênin course materials
 
-Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh viên 📚
+A study website that collects materials, lectures, and review content for students.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
 ![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
@@ -262,13 +259,13 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 </td>
 <td width="50%" valign="top">
 
-### 🌿 More coming soon...
+### More projects
 
-> *"Every great project starts with a single commit"* 🌱
+More projects and experiments are available in my repositories.
 
 <br/>
 
-[![See all repos](https://img.shields.io/badge/🌿_See_all_repos-f5f0ff?style=for-the-badge&logo=github&logoColor=7040b8)](https://github.com/5erax?tab=repositories)
+[![See all repos](https://img.shields.io/badge/See_all_repos-f5f0ff?style=for-the-badge&logo=github&logoColor=7040b8)](https://github.com/5erax?tab=repositories)
 
 </td>
 </tr>
@@ -276,7 +273,7 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 
 ---
 
-## 🎵 Currently Listening
+## Currently Listening
 
 <div align="center">
 
@@ -288,23 +285,20 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 
 ---
 
-## 🍃 Motto
+## Working Principles
 
-> *"No matter how many times you are reborn, I'll find you.*
-> *I think that's what it means to be connected — like roots beneath the forest floor."*
->
-> — inspired by **Studio Ghibli** 🌸
+> Build useful things. Keep the code understandable. Improve the product one small step at a time.
 
 ---
 
-## 🌾 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/🌿_GitHub-5erax-c0a0ff?style=for-the-badge&labelColor=f5f0ff)](https://github.com/5erax)
-[![LinkedIn](https://img.shields.io/badge/🌊_LinkedIn-Connect-6ba3e8?style=for-the-badge&labelColor=f0f5ff)](https://linkedin.com/in/dha2608)
-[![Portfolio](https://img.shields.io/badge/🍀_Portfolio-Visit-80c8a0?style=for-the-badge&labelColor=f0fff5)](https://dha2608.vercel.app)
-[![Email](https://img.shields.io/badge/🌸_Email-Say_Hi-f0a0c0?style=for-the-badge&labelColor=fff5fb)](mailto:dha2608@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5erax-c0a0ff?style=for-the-badge&labelColor=f5f0ff&logo=github&logoColor=7040b8)](https://github.com/5erax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6ba3e8?style=for-the-badge&labelColor=f0f5ff&logo=linkedin&logoColor=0066c8)](https://linkedin.com/in/dha2608)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-80c8a0?style=for-the-badge&labelColor=f0fff5)](https://dha2608.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-f0a0c0?style=for-the-badge&labelColor=fff5fb&logo=gmail&logoColor=b03020)](mailto:dha2608@gmail.com)
 
 </div>
 
@@ -314,6 +308,6 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Made with love, coffee & Studio Ghibli OSTs* &nbsp; 🌸 🌿 🍀
+Thanks for visiting my profile.
 
 </div>
