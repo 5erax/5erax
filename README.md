@@ -1,124 +1,119 @@
 <p align="center">
-  <img src="./assets/profile-header.svg?v=orbital" alt="Lagna. — Fullstack developer, surrounded by a flowing aurora and luminous orbital trails." width="100%" />
+  <img src="./assets/profile-header.svg?v=ui-motion" alt="Lagna. — Fullstack developer focused on UI and motion. Currently building ProZ0." width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Lagna.</h1>
+<h1 align="center">A developer with an eye for the interface.</h1>
 
 <p align="center">
-  Fullstack developer based in <strong>Vietnam</strong>.<br />
-  I build web and mobile applications with clear interfaces and maintainable code.
-</p>
-
-<p align="center">
-  <strong>Open to work</strong> &nbsp;·&nbsp; Frontend &amp; backend opportunities &nbsp;·&nbsp; UTC+7
+  I'm <strong>Lagna.</strong>, a fullstack developer in Vietnam.<br />
+  My strongest focus is <strong>expressive UI, thoughtful motion, and the details that make an experience feel finished.</strong>
 </p>
 
 <p align="center">
-  <a href="https://dha2608.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C4B5FD?style=for-the-badge" alt="Visit my portfolio" /></a>
-  <a href="https://linkedin.com/in/dha2608"><img src="https://img.shields.io/badge/LinkedIn-D8C8ED?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:lagna0175@gmail.com"><img src="https://img.shields.io/badge/Say_hello-F0BFD4?style=for-the-badge" alt="Email me at lagna0175@gmail.com" /></a>
+  <a href="https://dha2608.vercel.app"><img src="./assets/link-portfolio.svg" alt="View my portfolio" width="30%" /></a>
+  <a href="https://linkedin.com/in/dha2608"><img src="./assets/link-linkedin.svg" alt="Connect on LinkedIn" width="30%" /></a>
+  <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg" alt="Email lagna0175@gmail.com" width="30%" /></a>
 </p>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp;/&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;/&nbsp;
-  <a href="#a-little-more-about-me">More about me</a>
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#interface-lab">Interface lab</a> &nbsp; / &nbsp;
+  <a href="#behind-the-interface">Behind the interface</a>
 </p>
 
-<p align="center">
-  <img src="./assets/profile-divider.svg" alt="" width="100%" />
-</p>
+<p align="center"><img src="./assets/profile-divider.svg" alt="" width="100%" /></p>
 
 ## Selected work
 
-My projects explore personal finance, location-based communities, career tools, and commerce.
+### ProZ0 · Current focus
 
-> **Currently building · [FinGenie](https://github.com/5erax/FinGenie)**  
-> An AI-assisted personal finance app for web and mobile, bringing transactions, wallets, and savings goals together.
+<a href="https://github.com/5erax/ProZ0">
+  <img src="./assets/proz0-cover.svg" alt="ProZ0 — animated project cover for a pixel-art survival sandbox. Current focus; in development." width="100%" />
+</a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / PERSONAL FINANCE</sub>
-      <h3><a href="https://github.com/5erax/FinGenie">FinGenie</a></h3>
-      <p>Everyday money management across web and mobile, with AI assistance and gamification to make tracking finances more engaging.</p>
-      <p><code>Next.js</code> <code>NestJS</code> <code>Expo</code> <code>PostgreSQL</code></p>
-      <p><a href="https://github.com/5erax/FinGenie"><strong>Explore the project ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / MAPS &amp; COMMUNITY</sub>
-      <h3><a href="https://github.com/5erax/geoconnect">GeoConnect</a></h3>
-      <p>A location-based social network for discovering places, sharing experiences, and connecting through maps and real-time messaging.</p>
-      <p><code>React</code> <code>Express</code> <code>Leaflet</code> <code>Socket.io</code></p>
-      <p><a href="https://github.com/5erax/geoconnect"><strong>Explore the project ↗</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / CAREER TOOLS</sub>
-      <h3><a href="https://github.com/5erax/CVmate">CVmate</a></h3>
-      <p>An AI-assisted career platform that brings CV creation, ATS-oriented feedback, and interview practice into one workflow.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>MongoDB</code> <code>Hugging Face</code></p>
-      <p><a href="https://github.com/5erax/CVmate"><strong>Explore the project ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / THOUGHTFUL COMMERCE</sub>
-      <h3><a href="https://github.com/5erax/Flowery">Flowery</a></h3>
-      <p>A flower discovery and marketplace platform built around emotions, relationships, and occasions, with Vietnamese flower meanings.</p>
-      <p><code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind CSS</code></p>
-      <p><a href="https://github.com/5erax/Flowery"><strong>Explore the project ↗</strong></a></p>
-    </td>
-  </tr>
-</table>
+A browser-first **2D pixel-art survival and exploration sandbox** about building a new civilization and uncovering the traces of an older one. My current priority is its **Phase 1 vertical slice**.
 
-**Also on my workbench**
+**TypeScript · PixiJS · Vite**  
+[Explore ProZ0 →](https://github.com/5erax/ProZ0) &nbsp; · &nbsp; [Follow development](https://github.com/users/5erax/projects/4/views/1)
 
-- **[Ecommerce Mobile](https://github.com/5erax/ecomerce-mobile)** — A React Native and Expo shopping experience with product browsing, a wishlist, a cart, and order history.
-- **[MLN Web](https://github.com/5erax/MLN-web)** — An interactive Vietnamese Party history learning platform with lessons, timelines, quizzes, and a subject-focused assistant.
+<br />
+
+### MediMate AI · Featured
+
+<a href="https://github.com/5erax/SEP490_FE_MedicalAIAssistant">
+  <img src="./assets/medimate-cover.svg" alt="MediMate AI — a scrolling preview of the actual healthcare web interface, with symptom intake and care discovery." width="100%" />
+</a>
+
+An **AI-assisted pre-visit healthcare interface** for symptom intake, care discovery, and patient workflows. A different design challenge: making complex information feel clear, calm, and approachable.
+
+**React · JavaScript · Vite · MapLibre**  
+[Explore the web project →](https://github.com/5erax/SEP490_FE_MedicalAIAssistant) &nbsp; · &nbsp; [Visit MediMate](https://sep-490-fe-medical-ai-assistant.vercel.app) &nbsp; · &nbsp; [Mobile companion](https://github.com/5erax/SEP490_MB_MedicalAIAssistant)
+
+<br />
+
+<details>
+  <summary><strong>More projects</strong> — other things I've been building</summary>
+
+<br />
+
+| Project | What it explores |
+| :--- | :--- |
+| **[FinGenie](https://github.com/5erax/FinGenie)** | AI-assisted personal finance across web and mobile. Next.js, NestJS, Expo, and PostgreSQL. |
+| **[GeoConnect](https://github.com/5erax/geoconnect)** | Location-based communities, interactive maps, and real-time messaging. React, Leaflet, and Socket.io. |
+| **[CVmate](https://github.com/5erax/CVmate)** | CV creation, ATS-oriented feedback, and interview practice. React, TypeScript, and Hugging Face. |
+| **[Ecommerce Mobile](https://github.com/5erax/ecomerce-mobile)** | A React Native and Expo shopping experience with browsing, a wishlist, a cart, and order history. |
+| **[MLN Web](https://github.com/5erax/MLN-web)** | An interactive Vietnamese Party history learning platform with lessons, timelines, and quizzes. |
 
 [Browse all repositories →](https://github.com/5erax?tab=repositories)
 
-## Toolkit
+</details>
 
-| Area | Technologies |
+<p align="center"><img src="./assets/profile-divider.svg" alt="" width="100%" /></p>
+
+## Interface lab
+
+<img src="./assets/interface-lab.svg" alt="Three original animated UI studies: visual hierarchy, a toggle with interaction feedback, and layered page transitions." width="100%" />
+
+I care about the whole interaction: how a layout guides attention, how a control responds, and how one state becomes the next.
+
+**Visual hierarchy** · Typography, spacing, and composition.  
+**Micro-interactions** · Clear feedback in the small moments.  
+**Motion systems** · Timing, easing, and continuity between states.
+
+<sub>The panel above contains original motion studies; the MediMate preview shows the actual project interface.</sub>
+
+## Behind the interface
+
+The visual layer is where I put extra care. Underneath it, I build the components, APIs, and data flows that make the experience work.
+
+| Focus | Tools I work with |
 | :--- | :--- |
-| **Web & mobile** | React · Next.js · TypeScript · React Native · Expo |
-| **Backend & APIs** | Node.js · Express · NestJS · Spring Boot |
-| **Data** | PostgreSQL · MongoDB · Prisma |
-| **Design & workflow** | Figma · Git · Docker · GitHub Actions |
-
-## How I build
-
-- **Start with the user flow.** Make the next action clear and keep the interface consistent.
-- **Connect the whole experience.** Think through the UI, API, and data together.
-- **Keep the code understandable.** Favor readable components and clear responsibilities.
-- **Improve in small steps.** Build something useful, learn from it, and refine the details.
-
-## A little more about me
+| **Interfaces & interaction** | React · Next.js · TypeScript · Figma · PixiJS |
+| **Mobile** | React Native · Expo |
+| **Backend & data** | Node.js · Express · NestJS · Spring Boot · PostgreSQL · MongoDB · Prisma |
+| **Delivery** | Git · Docker · GitHub Actions |
 
 <details>
-  <summary><strong>My journey</strong> — the path so far</summary>
+  <summary><strong>My journey</strong></summary>
 
 <br />
 
 | When | Focus |
 | :--- | :--- |
-| **2024 — present** | **Fullstack development.** Building web and mobile applications with a focus on usable interfaces and maintainable architecture. |
+| **2024 — present** | **Fullstack development.** Web and mobile applications, with particular care for UI and interaction. |
 | **2023** | **Frontend internship.** Responsive layouts, reusable components, and interface consistency. |
 | **2020 — 2024** | **Computer science studies.** Programming, databases, algorithms, and software development fundamentals. |
 
 </details>
 
 <details>
-  <summary><strong>On GitHub</strong> — activity at a glance</summary>
+  <summary><strong>GitHub activity</strong></summary>
 
 <br />
 
-<p align="center">
-  <a href="https://github.com/5erax?tab=overview">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&amp;theme=rose_pine" alt="Overview of 5erax's GitHub contribution activity" width="100%" loading="lazy" />
-  </a>
-</p>
+<a href="https://github.com/5erax?tab=overview">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&amp;theme=rose_pine" alt="Overview of 5erax's GitHub contribution activity" width="100%" loading="lazy" />
+</a>
 
 [View my GitHub activity →](https://github.com/5erax?tab=overview)
 
@@ -139,17 +134,12 @@ My projects explore personal finance, location-based communities, career tools, 
 
 </details>
 
-<p align="center">
-  <img src="./assets/profile-divider.svg" alt="" width="100%" />
-</p>
+<p align="center"><img src="./assets/profile-divider.svg" alt="" width="100%" /></p>
 
-<h3 align="center">Have something useful in mind?</h3>
+<h2 align="center">Let's make it work. And make it feel right.</h2>
 
 <p align="center">
-  I'm open to frontend and backend opportunities.<br />
-  <a href="mailto:lagna0175@gmail.com"><strong>Let's talk → lagna0175@gmail.com</strong></a>
-</p>
-
-<p align="center">
-  <sub>Build useful things. Keep the code understandable. Keep improving.</sub>
+  Open to frontend and fullstack opportunities, especially where <strong>UI and interaction matter.</strong><br /><br />
+  <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg" alt="Let's talk — lagna0175@gmail.com" width="240" /></a><br />
+  <a href="mailto:lagna0175@gmail.com">lagna0175@gmail.com</a>
 </p>
