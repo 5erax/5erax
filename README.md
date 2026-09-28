@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Lagna. — Fullstack developer. Thoughtful interfaces. Useful applications." width="100%" />
+  <img src="./assets/profile-header.svg?v=orbital" alt="Lagna. — Fullstack developer, surrounded by a flowing aurora and luminous orbital trails." width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Lagna.</h1>
@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://dha2608.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C4B5FD?style=for-the-badge&amp;logo=vercel&amp;logoColor=181321" alt="Visit my portfolio" /></a>
+  <a href="https://dha2608.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C4B5FD?style=for-the-badge" alt="Visit my portfolio" /></a>
   <a href="https://linkedin.com/in/dha2608"><img src="https://img.shields.io/badge/LinkedIn-D8C8ED?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:dha2608@gmail.com"><img src="https://img.shields.io/badge/Say_hello-F0BFD4?style=for-the-badge&amp;logo=gmail&amp;logoColor=181321" alt="Email me at dha2608@gmail.com" /></a>
+  <a href="mailto:lagna0175@gmail.com"><img src="https://img.shields.io/badge/Say_hello-F0BFD4?style=for-the-badge" alt="Email me at lagna0175@gmail.com" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,9 @@
   <a href="#a-little-more-about-me">More about me</a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/profile-divider.svg" alt="" width="100%" />
+</p>
 
 ## Selected work
 
@@ -137,13 +139,15 @@ My projects explore personal finance, location-based communities, career tools, 
 
 </details>
 
----
+<p align="center">
+  <img src="./assets/profile-divider.svg" alt="" width="100%" />
+</p>
 
 <h3 align="center">Have something useful in mind?</h3>
 
 <p align="center">
   I'm open to frontend and backend opportunities.<br />
-  <a href="mailto:dha2608@gmail.com"><strong>Let's talk → dha2608@gmail.com</strong></a>
+  <a href="mailto:lagna0175@gmail.com"><strong>Let's talk → lagna0175@gmail.com</strong></a>
 </p>
 
 <p align="center">

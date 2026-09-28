@@ -1,74 +1,183 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Lagna. — Fullstack developer</title>
-  <desc id="desc">Thoughtful interfaces. Useful applications. A violet and rose illustration connects interface, logic, and data.</desc>
+  <desc id="desc">A violet aurora drifts behind the Lagna signature. Luminous orbital trails circle a dark sphere while a soft light sweeps across the lettering.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#171424"/>
-      <stop offset="0.56" stop-color="#11121F"/>
-      <stop offset="1" stop-color="#21182B"/>
+    <linearGradient id="space" x1="0" y1="0" x2="1280" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B18"/><stop offset=".55" stop-color="#100D23"/><stop offset="1" stop-color="#080C1B"/>
     </linearGradient>
-    <linearGradient id="name" x1="64" y1="100" x2="455" y2="208" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FAF5FF"/>
-      <stop offset="0.58" stop-color="#D8C5FF"/>
-      <stop offset="1" stop-color="#F2BFD8"/>
-    </linearGradient>
-    <linearGradient id="card" x1="824" y1="68" x2="1182" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#292239"/>
-      <stop offset="1" stop-color="#191925"/>
-    </linearGradient>
-    <linearGradient id="connection" x1="905" y1="110" x2="1100" y2="311" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BC9EF3"/>
-      <stop offset="1" stop-color="#EDA9CA"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1038 208) rotate(90) scale(285 370)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A77BDD" stop-opacity="0.13"/>
-      <stop offset="1" stop-color="#A77BDD" stop-opacity="0"/>
+    <radialGradient id="nebula">
+      <stop stop-color="#8050DE" stop-opacity=".22"/><stop offset=".58" stop-color="#7B39BB" stop-opacity=".09"/><stop offset="1" stop-color="#080B18" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#D9C4FB" stroke-opacity="0.035"/>
-    </pattern>
-    <clipPath id="bounds"><rect x="1" y="1" width="1278" height="418" rx="28"/></clipPath>
+    <linearGradient id="aurora" x1="240" y1="410" x2="1190" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#53D5E8" stop-opacity="0"/><stop offset=".32" stop-color="#8875FF"/><stop offset=".64" stop-color="#CA70EF"/><stop offset=".85" stop-color="#EF99C4"/><stop offset="1" stop-color="#EF99C4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="signature" x1="76" y1="125" x2="550" y2="265" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F5FF"/><stop class="violet-stop" offset=".48" stop-color="#D0B5FF"/><stop class="rose-stop" offset=".8" stop-color="#F2BEDD"/><stop offset="1" stop-color="#9ADDEA"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="-146" y1="-140" x2="142" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#80E5F0"/><stop offset=".32" stop-color="#B89CFF"/><stop offset=".67" stop-color="#E899D7"/><stop offset="1" stop-color="#7289FF"/>
+    </linearGradient>
+    <radialGradient id="planet" cx=".32" cy=".23" r=".85">
+      <stop stop-color="#292147"/><stop offset=".5" stop-color="#15132F"/><stop offset="1" stop-color="#090E1B"/>
+    </radialGradient>
+    <radialGradient id="atmosphere">
+      <stop offset=".54" stop-color="#9B77FF" stop-opacity="0"/><stop offset=".68" stop-color="#B484FF" stop-opacity=".19"/><stop offset=".83" stop-color="#BA73D7" stop-opacity=".06"/><stop offset="1" stop-color="#7D79DF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit" x1="-221" y1="0" x2="221" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ADCEA" stop-opacity=".1"/><stop offset=".26" stop-color="#AB8EFF"/><stop offset=".62" stop-color="#F0B0DB"/><stop offset="1" stop-color="#83DDEB" stop-opacity=".16"/>
+    </linearGradient>
+    <linearGradient id="sweep">
+      <stop stop-color="#FFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFF" stop-opacity=".75"/><stop offset="1" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1280" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75CFDC" stop-opacity=".2"/><stop offset=".4" stop-color="#BD9AF1" stop-opacity=".5"/><stop offset=".7" stop-color="#D498C0" stop-opacity=".2"/><stop offset="1" stop-color="#7C8DE8" stop-opacity=".3"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="64" y1="0" x2="1216" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AA8FF1" stop-opacity="0"/><stop offset=".34" stop-color="#AA8FF1" stop-opacity=".5"/><stop offset=".65" stop-color="#D69DD8" stop-opacity=".45"/><stop offset="1" stop-color="#7ED8E5" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="mist" x="-40%" y="-120%" width="180%" height="340%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="halo" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="11"/>
+    </filter>
+    <clipPath id="frame"><rect x="1" y="1" width="1278" height="478" rx="28"/></clipPath>
+    <clipPath id="sphere"><circle r="127"/></clipPath>
+    <clipPath id="lettering">
+      <text x="69" y="251" font-family="'Segoe UI',Arial,sans-serif" font-weight="750" font-size="146" letter-spacing="-8">Lagna.</text>
+    </clipPath>
+    <style>
+      .aurora-a { animation: drift-a 17s ease-in-out infinite alternate; }
+      .aurora-b { animation: drift-b 21s ease-in-out infinite alternate; }
+      .dust { animation: dust-drift 22s ease-in-out infinite alternate; }
+      .star { animation: breathe 7s ease-in-out infinite; }
+      .star-b { animation-delay: -3s; animation-duration: 9s; }
+      .star-c { animation-delay: -5s; animation-duration: 11s; }
+      .float { animation: float 12s ease-in-out infinite; }
+      .turn { animation: turn 38s linear infinite; }
+      .counterturn { animation: turn 52s linear infinite reverse; }
+      .trail { animation: trail 13s linear infinite; }
+      .trail-b { animation: trail 19s linear infinite reverse; }
+      .pulse { animation: atmosphere 8s ease-in-out infinite; }
+      .shimmer { animation: shimmer 10s ease-in-out infinite; }
+      .violet-stop { animation: violet 12s ease-in-out infinite; }
+      .rose-stop { animation: rose 12s ease-in-out infinite; }
+      .meteor { animation: meteor 16s linear infinite; opacity: 0; }
+      .meteor-b { animation-delay: -8s; }
+      .ticker-one { animation: ticker-one 15s ease-in-out infinite; }
+      .ticker-two { animation: ticker-two 15s ease-in-out infinite; opacity: 0; }
+      .ticker-three { animation: ticker-three 15s ease-in-out infinite; opacity: 0; }
+      @keyframes drift-a { from { transform: translate(-18px,14px) rotate(-2deg); opacity: .43; } to { transform: translate(30px,-16px) rotate(2deg); opacity: .76; } }
+      @keyframes drift-b { from { transform: translate(24px,-12px); opacity: .22; } to { transform: translate(-28px,14px); opacity: .5; } }
+      @keyframes dust-drift { from { transform: translateY(6px); } to { transform: translateY(-12px); } }
+      @keyframes breathe { 0%,100% { opacity: .28; } 50% { opacity: .85; } }
+      @keyframes float { 0%,100% { transform: translateY(5px); } 50% { transform: translateY(-7px); } }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes trail { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -1000; } }
+      @keyframes atmosphere { 0%,100% { opacity: .55; } 50% { opacity: .95; } }
+      @keyframes shimmer { 0%,16% { transform: translateX(-650px); } 52%,100% { transform: translateX(680px); } }
+      @keyframes violet { 0%,100% { stop-color: #D0B5FF; } 50% { stop-color: #ADDFED; } }
+      @keyframes rose { 0%,100% { stop-color: #F2BEDD; } 50% { stop-color: #C5AAFF; } }
+      @keyframes meteor { 0%,70% { transform: translate(0,0); opacity: 0; } 73% { opacity: .55; } 82%,100% { transform: translate(-225px,114px); opacity: 0; } }
+      @keyframes ticker-one { 0%,27%,100% { opacity: 1; transform: translateY(0); } 32%,94% { opacity: 0; transform: translateY(-6px); } }
+      @keyframes ticker-two { 0%,28%,65%,100% { opacity: 0; transform: translateY(6px); } 34%,60% { opacity: 1; transform: translateY(0); } }
+      @keyframes ticker-three { 0%,61%,98%,100% { opacity: 0; transform: translateY(6px); } 67%,93% { opacity: 1; transform: translateY(0); } }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+        .shimmer, .meteor, .ticker-two, .ticker-three { display: none; }
+        .ticker-one { opacity: 1; }
+      }
+    </style>
   </defs>
-  <g clip-path="url(#bounds)">
-    <rect width="1280" height="420" fill="url(#background)"/>
-    <rect x="672" width="608" height="420" fill="url(#grid)"/>
-    <rect width="1280" height="420" fill="url(#glow)"/>
-    <circle cx="1018" cy="210" r="240" stroke="#C6ADEB" stroke-opacity="0.07"/>
-    <circle cx="1018" cy="210" r="177" stroke="#C6ADEB" stroke-opacity="0.07"/>
-    <path d="M65 33H228" stroke="#D0ADF9" stroke-width="2" stroke-linecap="round"/>
-    <circle cx="65" cy="75" r="4" fill="#BDACDF"/>
-    <text x="81" y="81" fill="#C5B6DB" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3.5">FULLSTACK DEVELOPER</text>
-    <text x="60" y="193" fill="url(#name)" font-family="'Segoe UI',Arial,sans-serif" font-size="108" font-weight="750" letter-spacing="-6">Lagna.</text>
-    <text x="65" y="252" fill="#F5EFFB" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="500" letter-spacing="-0.6">Thoughtful interfaces.</text>
-    <text x="65" y="294" fill="#B6A8C9" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="500" letter-spacing="-0.6">Useful applications.</text>
-    <path d="M65 327H622" stroke="#362C43"/>
-    <text x="65" y="365" fill="#B2A5C6" font-family="'Segoe UI',Arial,sans-serif" font-size="17" letter-spacing="2">5ERAX</text>
-    <circle cx="155" cy="359" r="2" fill="#766780"/>
-    <text x="172" y="365" fill="#B2A5C6" font-family="'Segoe UI',Arial,sans-serif" font-size="17" letter-spacing="2">VIETNAM / UTC+7</text>
-    <path d="M980 148V158C980 165 986 170 993 170H1060C1067 170 1073 175 1073 182V190M1073 242V257C1073 264 1067 270 1060 270H970C963 270 957 276 957 283V291" stroke="url(#connection)" stroke-width="1.5" stroke-dasharray="4 5"/>
-    <rect x="824" y="66" width="292" height="84" rx="18" fill="url(#card)" stroke="#514060"/>
-    <rect x="842" y="84" width="48" height="48" rx="12" fill="#B899EF" fill-opacity="0.11"/>
-    <rect x="855" y="97" width="22" height="20" rx="3" stroke="#C7AAF7" stroke-width="1.7"/>
-    <path d="M855 103H877M863 103V117" stroke="#C7AAF7" stroke-width="1.5"/>
-    <text x="908" y="101" fill="#9683AD" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2">01 / EXPERIENCE</text>
-    <text x="908" y="126" fill="#F1E8FC" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600">Interface</text>
-    <circle cx="1092" cy="90" r="3" fill="#C7AAF7"/>
-    <rect x="889" y="168" width="292" height="84" rx="18" fill="url(#card)" stroke="#594264"/>
-    <rect x="907" y="186" width="48" height="48" rx="12" fill="#D6ACE7" fill-opacity="0.1"/>
-    <path d="M925 203L918 210L925 217M937 203L944 210L937 217M934 199L928 221" stroke="#D9B8EE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="973" y="203" fill="#A389AF" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2">02 / BEHAVIOR</text>
-    <text x="973" y="228" fill="#F1E8FC" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600">Logic</text>
-    <circle cx="1157" cy="192" r="3" fill="#D9B8EE"/>
-    <rect x="808" y="270" width="292" height="84" rx="18" fill="url(#card)" stroke="#574050"/>
-    <rect x="826" y="288" width="48" height="48" rx="12" fill="#E7ADCA" fill-opacity="0.1"/>
-    <ellipse cx="850" cy="303" rx="11" ry="4" stroke="#E7B3CF" stroke-width="1.7"/>
-    <path d="M839 303V319C839 321.2 843.9 323 850 323C856.1 323 861 321.2 861 319V303M839 311C839 313.2 843.9 315 850 315C856.1 315 861 313.2 861 311" stroke="#E7B3CF" stroke-width="1.7"/>
-    <text x="892" y="305" fill="#AF8A9E" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2">03 / FOUNDATION</text>
-    <text x="892" y="330" fill="#F1E8FC" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600">Data</text>
-    <circle cx="1076" cy="294" r="3" fill="#E7B3CF"/>
-    <path d="M755 104H765M760 99V109M1183 303H1193M1188 298V308" stroke="#876F9D" stroke-width="1.5" stroke-linecap="round"/>
-    <circle cx="1150" cy="358" r="3" fill="#D4A8CB" fill-opacity="0.5"/>
-    <circle cx="796" cy="229" r="2" fill="#C7AAF7" fill-opacity="0.45"/>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="480" fill="url(#space)"/>
+    <ellipse cx="965" cy="236" rx="440" ry="345" fill="url(#nebula)"/>
+    <g filter="url(#mist)">
+      <path class="aurora-a" d="M290 472C455 313 533 399 721 267S1002 53 1324 116" stroke="url(#aurora)" stroke-width="46" opacity=".6"/>
+      <path class="aurora-b" d="M342 439C566 472 601 234 817 225S1090 449 1341 299" stroke="url(#aurora)" stroke-width="34" opacity=".3"/>
+    </g>
+    <path class="aurora-a" d="M464 450C661 402 664 270 842 251S1116 362 1295 207" stroke="url(#aurora)" stroke-width="1.1" opacity=".35"/>
+    <path class="aurora-b" d="M570 451C701 408 730 318 895 331S1145 404 1320 274" stroke="url(#aurora)" stroke-width=".75" opacity=".25"/>
+    <g class="dust" fill="#D6C5FF">
+      <circle cx="99" cy="107" r="1.1" opacity=".4"/><circle cx="282" cy="52" r="1.3" opacity=".5"/>
+      <circle cx="486" cy="117" r="1.2" opacity=".4"/><circle cx="568" cy="74" r="1.1" opacity=".35"/>
+      <circle cx="696" cy="135" r="1.8" opacity=".55"/><circle cx="754" cy="62" r="1" opacity=".3"/>
+      <circle cx="1145" cy="90" r="1.5" opacity=".6"/><circle cx="1211" cy="188" r="1.1" opacity=".4"/>
+      <circle cx="1170" cy="382" r="1.6" opacity=".5"/><circle cx="748" cy="375" r="1.2" opacity=".4"/>
+      <circle cx="555" cy="390" r="1.4" opacity=".35"/><circle cx="384" cy="362" r="1" opacity=".4"/>
+      <circle cx="88" cy="350" r="1.2" opacity=".3"/><circle cx="1065" cy="45" r="1" opacity=".3"/>
+      <circle cx="1229" cy="305" r="1.2" opacity=".3"/><circle cx="801" cy="440" r="1" opacity=".35"/>
+    </g>
+    <g class="star" filter="url(#glow)" stroke="#B2DDEA" stroke-linecap="round">
+      <path d="M648 67V77M643 72H653"/><circle cx="648" cy="72" r="1" fill="#E6E2FF"/>
+    </g>
+    <g class="star star-b" filter="url(#glow)" stroke="#D5B7F2" stroke-linecap="round">
+      <path d="M1186 133V145M1180 139H1192"/><circle cx="1186" cy="139" r="1.2" fill="#F5DEFF"/>
+    </g>
+    <g class="star star-c" filter="url(#glow)" stroke="#D5B7F2" stroke-linecap="round">
+      <path d="M710 318V326M706 322H714"/>
+    </g>
+    <path class="meteor" d="M886 50L955 15" stroke="url(#aurora)" stroke-width="1.4" stroke-linecap="round"/>
+    <path class="meteor meteor-b" d="M650 147L716 113" stroke="url(#aurora)" stroke-width="1" stroke-linecap="round"/>
+    <g transform="translate(956 236)">
+      <g class="float">
+        <circle class="pulse" r="201" fill="url(#atmosphere)"/>
+        <g transform="rotate(-24)">
+          <ellipse rx="229" ry="88" stroke="url(#orbit)" stroke-width=".8" opacity=".42"/>
+          <ellipse class="trail" rx="229" ry="88" pathLength="1000" stroke="#BBABF6" stroke-width="2.3" stroke-dasharray="35 965" stroke-dashoffset="80" stroke-linecap="round" filter="url(#glow)" opacity=".8"/>
+        </g>
+        <circle r="128" stroke="url(#rim)" stroke-width="12" opacity=".25" filter="url(#halo)"/>
+        <circle r="127" fill="url(#planet)" stroke="url(#rim)" stroke-width="1.6"/>
+        <g clip-path="url(#sphere)">
+          <g transform="rotate(-25)" opacity=".4" stroke="url(#rim)" stroke-width=".65">
+            <ellipse rx="108" ry="127"/><ellipse rx="71" ry="127"/><ellipse rx="32" ry="127"/>
+            <ellipse rx="127" ry="102"/><ellipse rx="127" ry="59"/><ellipse rx="127" ry="18"/>
+          </g>
+          <path d="M-160 40C-95-77 26-143 130-92" stroke="#C3AEF4" stroke-width="42" opacity=".09" filter="url(#halo)"/>
+          <path d="M-121 48C-63-6 57-76 123-66" stroke="url(#rim)" stroke-width=".8" opacity=".5"/>
+          <circle cx="-47" cy="-52" r="65" fill="url(#nebula)" opacity=".65"/>
+        </g>
+        <g class="turn">
+          <circle r="145" stroke="url(#rim)" stroke-width="1" stroke-dasharray="88 27 3 26 170 32 3 45 76 442" opacity=".6"/>
+          <circle cx="145" r="3" fill="#C8B5FF" filter="url(#glow)"/>
+        </g>
+        <g class="counterturn">
+          <circle r="167" stroke="#9B8AC8" stroke-width=".7" stroke-dasharray="1 15" opacity=".45"/>
+          <path d="M-166 0A166 166 0 0 1-111-123" stroke="url(#rim)" stroke-width="1.8" opacity=".7"/>
+          <circle cx="-166" r="2.2" fill="#98DFEA" filter="url(#glow)"/>
+        </g>
+        <g transform="rotate(-24)">
+          <path d="M-229 0A229 88 0 0 0 229 0" stroke="url(#orbit)" stroke-width="1.3" opacity=".9"/>
+          <ellipse class="trail trail-b" rx="229" ry="88" pathLength="1000" stroke="#EABADB" stroke-width="2.1" stroke-dasharray="3 997" stroke-dashoffset="-450" stroke-linecap="round" filter="url(#glow)"/>
+        </g>
+        <g transform="rotate(58)">
+          <ellipse rx="189" ry="55" stroke="url(#orbit)" stroke-width=".65" opacity=".45"/>
+          <ellipse class="trail" rx="189" ry="55" pathLength="1000" stroke="#B2DDE9" stroke-width="1.6" stroke-dasharray="22 978" stroke-dashoffset="-560" stroke-linecap="round" opacity=".65"/>
+        </g>
+      </g>
+    </g>
+    <g font-family="'Segoe UI',Arial,sans-serif">
+      <text x="76" y="81" fill="#C1A9E4" font-size="16" font-weight="600" letter-spacing="5">5ERAX / DIGITAL ORBIT</text>
+      <text x="72" y="255" fill="none" stroke="#A68CE8" stroke-opacity=".16" stroke-width="1" font-size="146" font-weight="750" letter-spacing="-8">Lagna.</text>
+      <text x="69" y="251" fill="url(#signature)" font-size="146" font-weight="750" letter-spacing="-8">Lagna.</text>
+      <g clip-path="url(#lettering)">
+        <path class="shimmer" d="M20 100H145L225 292H100Z" fill="url(#sweep)"/>
+      </g>
+      <text x="78" y="304" fill="#E3D9F3" font-size="25" font-weight="400" letter-spacing="2">FULLSTACK DEVELOPER</text>
+      <g fill="#A99BBC" font-size="20" letter-spacing=".4">
+        <text class="ticker-one" x="79" y="350">Thoughtful interfaces. Useful applications.</text>
+        <text class="ticker-two" x="79" y="350">From the first pixel to the final endpoint.</text>
+        <text class="ticker-three" x="79" y="350">React · TypeScript · Node.js · Spring Boot</text>
+      </g>
+      <path d="M65 407H1215" stroke="url(#horizon)" stroke-width=".8"/>
+      <circle cx="82" cy="440" r="3.5" fill="#A8D6C9"/>
+      <circle class="pulse" cx="82" cy="440" r="7" stroke="#A8D6C9" stroke-opacity=".24"/>
+      <text x="99" y="446" fill="#B9AFCA" font-size="15" letter-spacing="1.8">OPEN TO WORK</text>
+      <text x="1200" y="446" fill="#9D93B2" font-size="15" text-anchor="end" letter-spacing="2">VIETNAM / UTC+7</text>
+    </g>
   </g>
-  <rect x="1" y="1" width="1278" height="418" rx="28" stroke="#3A2E48"/>
+  <rect x="1" y="1" width="1278" height="478" rx="28" stroke="url(#edge)"/>
 </svg>
