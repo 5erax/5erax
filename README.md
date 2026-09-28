@@ -1,279 +1,313 @@
-<!-- ============================================================ -->
-<!--                     LAGNA // 5ERAX                           -->
-<!--          Neon Orbit — GitHub Profile README v2              -->
-<!--   Name/identity is intentionally STATIC. No blinking name.  -->
-<!-- ============================================================ -->
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Lagna.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
 
-<!-- STATIC identity hero: no animation parameter on purpose -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,24:40205d,52:8f3f88,78:e45a9f,100:ffc7e5&height=280&section=header&text=Lagna.&fontSize=92&fontColor=ffffff&fontAlignY=35&desc=FULLSTACK%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20UI%20ENJOYER&descSize=17&descAlignY=56&descColor=ffeaf6" width="100%" alt="Lagna — Fullstack Developer" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=22&duration=3500&pause=1000&color=C050A0&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Building+practical+web+and+mobile+apps;Working+with+React%2C+TypeScript%2C+Node.js+and+Spring+Boot;Focused+on+clean+UI+and+maintainable+code)](https://git.io/typing-svg)
 
-<!-- Motion lives in the tagline, never in the name -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=FF70B8&center=true&vCenter=true&repeat=true&random=false&width=900&height=55&lines=Building+clean+products+with+polished+interfaces+%E2%9C%A6;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Spring+Boot+%E2%9A%A1;Web+%2B+Mobile+%2B+APIs+%2B+Product+UX+%F0%9F%8C%8C;Readable+code.+Intentional+UX.+Useful+software." alt="Animated developer tagline" />
+<br/>
 
-<p>
-  <a href="https://github.com/5erax?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=18121f" /></a>
-  <a href="https://dha2608.vercel.app"><img src="https://img.shields.io/badge/OPEN-PORTFOLIO-FF5FA2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=271521" /></a>
-  <a href="https://linkedin.com/in/dha2608"><img src="https://img.shields.io/badge/LET'S-CONNECT-4F8DF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15223a" /></a>
-</p>
+![Open to Work](https://img.shields.io/badge/Open_to_Work-ff80b0?style=for-the-badge&labelColor=fff0f6&color=ff80b0)
+![Fullstack Dev](https://img.shields.io/badge/Fullstack_Dev-9b7fd4?style=for-the-badge&labelColor=f5f0ff&color=9b7fd4)
+![React + Node.js](https://img.shields.io/badge/React_%2B_Node.js-6ba3e8?style=for-the-badge&labelColor=f0f5ff&color=6ba3e8)
+![Vietnam UTC+7](https://img.shields.io/badge/Vietnam_UTC%2B7-3a9a6a?style=for-the-badge&labelColor=f0fff8&color=3a9a6a)
 
-<p>
-  <img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-FF4FA3?style=flat-square&labelColor=241025" />
-  <img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-B46CFF?style=flat-square&labelColor=21142c" />
-  <img src="https://img.shields.io/badge/VIETNAM-UTC%2B7-55D6BE?style=flat-square&labelColor=142924" />
-  <img src="https://komarev.com/ghpvc/?username=5erax&style=flat-square&color=FF5FA2&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/5erax?style=flat-square&logo=github&label=FOLLOWERS&color=9F7AEA&labelColor=20172d" />
-</p>
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=5erax&style=flat-square&color=ff80b0&label=Profile+Views)](https://github.com/5erax)
+[![GitHub followers](https://img.shields.io/github/followers/5erax?style=flat-square&color=c0a0ff&label=Followers)](https://github.com/5erax?tab=followers)
 
 </div>
 
-<!-- QUICK NAV -->
-<div align="center">
-  <a href="#-about"><img src="https://img.shields.io/badge/ABOUT-1f1728?style=for-the-badge&labelColor=1f1728" /></a>
-  <a href="#-stack"><img src="https://img.shields.io/badge/STACK-2c1937?style=for-the-badge&labelColor=2c1937" /></a>
-  <a href="#-builds"><img src="https://img.shields.io/badge/BUILDS-49204f?style=for-the-badge&labelColor=49204f" /></a>
-  <a href="#-github"><img src="https://img.shields.io/badge/GITHUB-6d285f?style=for-the-badge&labelColor=6d285f" /></a>
-  <a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-963669?style=for-the-badge&labelColor=963669" /></a>
-</div>
+---
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b0f38,50:8c2e70,100:ff6bad&height=3" width="100%" />
-
-<!-- ============================================================ -->
-<!-- ABOUT -->
-<!-- ============================================================ -->
-
-<h2 align="center" id="-about">✦ ABOUT</h2>
-
-<div align="center">
-
-FULLSTACK DEVELOPER // PRODUCT-MINDED BUILDER
-I build practical web and mobile products with a strong focus on
-clear user flows · readable code · maintainable systems · polished UI.
-Currently building FinGenie — an AI-powered expense management app.
-
-<img src="https://img.shields.io/badge/FOCUS-Product%20Quality-FF5FA2?style=for-the-badge&labelColor=2b1424" />
-<img src="https://img.shields.io/badge/BUILDING-FinGenie-A855F7?style=for-the-badge&labelColor=24162f" />
-<img src="https://img.shields.io/badge/INTEREST-UI%20%2B%20APIs%20%2B%20Mobile-4F8DF7?style=for-the-badge&labelColor=16223b" />
-
-</div>
-
+## About Me
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="38%" valign="top">
 
-🎯 Ship
-From rough idea to a usable product.
-UX → UI → API → Delivery
+**Lagna.**  
+`Fullstack Developer`  
+Vietnam · UTC+7
+
+---
+
+Open to Work  
+Frontend & Backend  
+React / TypeScript  
+Node.js / Spring Boot  
+Clean UI  
+API Integration
+
 </td>
-<td width="33%" align="center" valign="top">
+<td width="62%" valign="top">
 
-🧩 Engineer
-Build systems that stay understandable.
-Frontend → Backend → Data
-</td>
-<td width="33%" align="center" valign="top">
+```typescript
+const Lagna = {
+  name      : "Lagna.",
+  alias     : "5erax",
+  role      : "Fullstack Developer",
+  location  : "Vietnam",
+  stacks    : ["React", "Node.js",
+               "TypeScript", "Spring Boot"],
+  building  : "FinGenie — AI expense app",
+  interests : ["UI design", "API integration", "mobile apps"],
+};
+```
 
-✨ Polish
-Make the last 10% feel intentional.
-Flow → Feedback → Details
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🪪 Developer profile</b> — click to expand</summary>
+> Hi, I'm a fullstack developer who enjoys building practical web and mobile applications.
+>
+> I mainly work with **React, TypeScript, Node.js, and Spring Boot**. I care about readable code, clear user flows, and interfaces that are simple to use.
+>
+> I am currently working on **FinGenie**, an AI-powered expense management app.
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![Next.js](https://img.shields.io/badge/Next.js-f0eeff?style=flat-square&logo=nextdotjs&logoColor=4838a0)
+![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
+![React Native](https://img.shields.io/badge/React_Native-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![Figma](https://img.shields.io/badge/Figma-fff3f0?style=flat-square&logo=figma&logoColor=c85030)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ecfff0?style=flat-square&logo=springboot&logoColor=287828)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-edf2ff?style=flat-square&logo=postgresql&logoColor=285888)
+![MongoDB](https://img.shields.io/badge/MongoDB-f0fff4?style=flat-square&logo=mongodb&logoColor=1a7030)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-e8f5ff?style=flat-square&logo=docker&logoColor=006898)
+![Git](https://img.shields.io/badge/Git-fff0ee?style=flat-square&logo=git&logoColor=b03020)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-f5f0ff?style=flat-square&logo=githubactions&logoColor=4838a0)
+
+---
+
+## My Journey
+
+<table>
+<tr>
+<td width="18%" align="center">
+
+**2024**  
+**— now**
+
+</td>
+<td width="82%">
+
+**Fullstack Developer**  
+Building web and mobile applications with a focus on clean architecture and usable interfaces.
+
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-edf2ff?style=flat-square&logo=postgresql&logoColor=285888)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ecfff0?style=flat-square&logo=springboot&logoColor=287828)
+![Docker](https://img.shields.io/badge/Docker-e8f5ff?style=flat-square&logo=docker&logoColor=006898)
+
+</td>
+</tr>
+<tr>
+<td width="18%" align="center">
+
+**2023**
+
+</td>
+<td width="82%">
+
+**Frontend Intern**  
+Worked on responsive layouts, reusable components, and interface consistency.
+
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
+![Figma](https://img.shields.io/badge/Figma-fff3f0?style=flat-square&logo=figma&logoColor=c85030)
+
+</td>
+</tr>
+<tr>
+<td width="18%" align="center">
+
+**2020**  
+**— 2024**
+
+</td>
+<td width="82%">
+
+**Computer Science Studies**  
+Built a foundation in programming, databases, algorithms, and software development.
+
+![Algorithms](https://img.shields.io/badge/Algorithms-f5eeff?style=flat-square&logoColor=7040b8)
+![Databases](https://img.shields.io/badge/Databases-edfff2?style=flat-square&logoColor=287828)
+![Networking](https://img.shields.io/badge/Networking-eef5ff?style=flat-square&logoColor=285888)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&theme=rose_pine" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5erax&theme=rose_pine" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5erax&theme=rose_pine" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5erax&theme=rose_pine" width="32%"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=5erax&hide_border=true&background=FFF5FB&stroke=F0C0D8&ring=E060A0&fire=FF6090&currStreakLabel=C060A0&sideNums=9060B0&sideLabels=C090C0&dates=C0A0C8)
+
+</div>
+
+---
+
+## Contribution Garden
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=5erax&bg_color=fff5fb&color=c060a0&line=e090c8&point=a040a0&area=true&area_color=f8d0e8&hide_border=true&radius=8)
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [GeoConnect](https://github.com/5erax/geoconnect)
+> Location-based social networking app
+
+Connects nearby users and helps them discover places and events around them in real time.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
+![Socket.io](https://img.shields.io/badge/Socket.io-f5f0ff?style=flat-square&logo=socketdotio&logoColor=4838a0)
+
+</td>
+<td width="50%" valign="top">
+
+### [CVmate](https://github.com/5erax/CVmate)
+> AI-assisted CV builder
+
+Helps users generate a structured CV and export it to PDF with less manual formatting.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-fffae8?style=flat-square&logo=javascript&logoColor=a87800)
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![AI/LLM](https://img.shields.io/badge/AI%2FLLM-f5eeff?style=flat-square&logo=openai&logoColor=7040b8)
+![PDF](https://img.shields.io/badge/PDF_Export-fff0f0?style=flat-square&logo=adobeacrobatreader&logoColor=b03020)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Ecomerce Mobile](https://github.com/5erax/ecomerce-mobile)
+> Cross-platform shopping app
+
+Mobile shopping app with product browsing, cart management, checkout, and order tracking.
+
+![React Native](https://img.shields.io/badge/React_Native-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
+![MongoDB](https://img.shields.io/badge/MongoDB-f0fff4?style=flat-square&logo=mongodb&logoColor=1a7030)
+
+</td>
+<td width="50%" valign="top">
+
+### [Flowery](https://github.com/5erax/Flowery)
+> Online flower shop website
+
+Flower shop website with product categories, ordering flow, and a clean pastel interface.
+
+![HTML](https://img.shields.io/badge/HTML-fff5f0?style=flat-square&logo=html5&logoColor=b04020)
+![CSS](https://img.shields.io/badge/CSS-f0f5ff?style=flat-square&logo=css3&logoColor=2848b8)
+![JavaScript](https://img.shields.io/badge/JavaScript-fffae8?style=flat-square&logo=javascript&logoColor=a87800)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MLN Web](https://github.com/5erax/MLN-web)
+> Learning website for Mác-Lênin course materials
+
+A study website that collects materials, lectures, and review content for students.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![Vite](https://img.shields.io/badge/Vite-f5f0ff?style=flat-square&logo=vite&logoColor=7040b8)
+
+</td>
+<td width="50%" valign="top">
+
+### More projects
+
+More projects and experiments are available in my repositories.
+
 <br/>
 
-const profile = {
-  name: "Lagna.",
-  alias: "5erax",
-  role: "Fullstack Developer",
-  location: "Vietnam · UTC+7",
-  building: "FinGenie — AI-powered expense management app",
-  strengths: ["UI", "Frontend", "Backend", "API integration"],
-  mindset: "Build useful things. Make them feel intentional."
-};
-</details>
+[![See all repos](https://img.shields.io/badge/See_all_repos-f5f0ff?style=for-the-badge&logo=github&logoColor=7040b8)](https://github.com/5erax?tab=repositories)
 
+</td>
+</tr>
+</table>
 
-<!-- ============================================================ -->
-<!-- STACK -->
-<!-- ============================================================ -->
+---
 
-<h2 align="center" id="-stack">⚡ STACK</h2>
+## Currently Listening
 
 <div align="center">
 
-FRONTEND / MOBILE
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,html,css&theme=dark" alt="Frontend stack" />
-
-
-
-
-BACKEND / DATA
-<img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mongodb&theme=dark" alt="Backend stack" />
-
-
-
-
-DEVOPS / WORKFLOW / DESIGN
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,figma,vscode&theme=dark" alt="Tools" />
-
-
-
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-1E4F8C?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-1B3321?style=for-the-badge&logo=nodedotjs&logoColor=7CC96D" />
-<img src="https://img.shields.io/badge/Spring%20Boot-19371E?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/PostgreSQL-192A45?style=for-the-badge&logo=postgresql&logoColor=88B6E8" />
-<img src="https://img.shields.io/badge/MongoDB-16331C?style=for-the-badge&logo=mongodb&logoColor=69D36F" />
-
-</div>
-
-
-<!-- ============================================================ -->
-<!-- MISSION -->
-<!-- ============================================================ -->
-
-<h2 align="center">🛰 CURRENT MISSION</h2>
-
-<div align="center">
-
-BUILDING	IMPROVING	EXPLORING
-🧠 FinGenie	🎯 Product quality	🌱 Better systems
-AI expense management	UX · architecture · polish	AI · automation · mobile
-
-
-</div>
-
-
-<!-- ============================================================ -->
-<!-- BUILDS -->
-<!-- ============================================================ -->
-
-<h2 align="center" id="-builds">🚀 FEATURED BUILDS</h2>
-
-<div align="center">
-
-<a href="https://github.com/5erax/geoconnect">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5erax&repo=geoconnect&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" />
-</a>
-<a href="https://github.com/5erax/CVmate">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5erax&repo=CVmate&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" />
-</a>
-
-<a href="https://github.com/5erax/ecomerce-mobile">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5erax&repo=ecomerce-mobile&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" />
-</a>
-<a href="https://github.com/5erax/Flowery">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5erax&repo=Flowery&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" />
-</a>
-
-
-
-
-<a href="https://github.com/5erax?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=21152A" />
-</a>
-
-</div>
-
-
-<!-- ============================================================ -->
-<!-- GITHUB -->
-<!-- ============================================================ -->
-
-<h2 align="center" id="-github">📊 GITHUB CONTROL ROOM</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&theme=radical" />
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&theme=rose_pine" alt="GitHub profile details" />
-</picture>
-
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=5erax&show_icons=true&hide_border=true&rank_icon=github&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5erax&layout=compact&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&langs_count=8" alt="Top languages" />
-
-
-
-
-<img width="72%" src="https://streak-stats.demolab.com?user=5erax&hide_border=true&background=120F1B&ring=FF5FA2&fire=FF8E6E&currStreakLabel=FF6BAA&sideNums=E9DFF0&currStreakNum=FFFFFF&sideLabels=BDAFC8&dates=8E8299" alt="GitHub streak" />
-
-
-
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=5erax&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies" />
-
-</div>
-
-
-<!-- ============================================================ -->
-<!-- JOURNEY -->
-<!-- ============================================================ -->
-
-<h2 align="center">🪐 JOURNEY</h2>
-
-2024 → NOW Fullstack Developer
-Building web and mobile applications with an emphasis on maintainable architecture, usable interfaces, and complete product flows.
-
-2023 Frontend Intern
-Responsive layouts, reusable components, TypeScript, interface consistency, and Figma collaboration.
-
-2020 → 2024 Computer Science Studies
-Programming, databases, algorithms, networking, and software engineering foundations.
-
-
-<!-- ============================================================ -->
-<!-- MUSIC -->
-<!-- ============================================================ -->
-
-<h2 align="center">🎧 CURRENTLY LISTENING</h2>
-
-<div align="center">
 <a href="https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&width=700&unique=true" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&width=600&unique=true" />
 </a>
+
 </div>
 
+---
 
-<!-- ============================================================ -->
-<!-- PHILOSOPHY -->
-<!-- ============================================================ -->
+## Working Principles
 
-<h2 align="center">💫 BUILD PHILOSOPHY</h2>
+> Build useful things. Keep the code understandable. Improve the product one small step at a time.
+
+---
+
+## Connect With Me
 
 <div align="center">
 
-Useful > flashy   ·   Clear > clever   ·   Polished > unfinished
-Build useful things. Keep the code understandable. Make the interface feel intentional.
+[![GitHub](https://img.shields.io/badge/GitHub-5erax-c0a0ff?style=for-the-badge&labelColor=f5f0ff&logo=github&logoColor=7040b8)](https://github.com/5erax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6ba3e8?style=for-the-badge&labelColor=f0f5ff&logo=linkedin&logoColor=0066c8)](https://linkedin.com/in/dha2608)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-80c8a0?style=for-the-badge&labelColor=f0fff5)](https://dha2608.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-f0a0c0?style=for-the-badge&labelColor=fff5fb&logo=gmail&logoColor=b03020)](mailto:dha2608@gmail.com)
+
 </div>
 
-
-<!-- ============================================================ -->
-<!-- CONNECT -->
-<!-- ============================================================ -->
-
-<h2 align="center" id="-connect">🔗 CONNECT</h2>
+---
 
 <div align="center">
 
-<a href="https://github.com/5erax"><img src="https://img.shields.io/badge/GITHUB-5ERAX-9D72FF?style=for-the-badge&logo=github&logoColor=white&labelColor=191523" /></a>
-<a href="https://linkedin.com/in/dha2608"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4F8DF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14213A" /></a>
-<a href="https://dha2608.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-55D6BE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=142823" /></a>
-<a href="mailto:dha2608@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF6BAA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=31131F" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-
-
-<!-- Animated closing line only; identity remains static everywhere -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1100&color=C8A4FF&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Thanks+for+visiting+%E2%9C%A6;Explore+the+projects%2C+break+things%2C+build+better+ones+%F0%9F%9A%80;Let%27s+make+something+useful+and+beautiful+%F0%9F%8C%B8" alt="Closing animation" />
+Thanks for visiting my profile.
 
 </div>
-
-<!-- Animated footer is allowed; no name/identity text inside it -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,24:40205d,52:8f3f88,78:e45a9f,100:ffc7e5&height=150&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
