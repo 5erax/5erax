@@ -1,383 +1,279 @@
 <!-- ============================================================ -->
-<!--                    LAGNA // 5ERAX PROFILE                    -->
-<!--            Aurora / Neon Glass GitHub Profile UI            -->
+<!--                     LAGNA // 5ERAX                           -->
+<!--          Neon Orbit — GitHub Profile README v2              -->
+<!--   Name/identity is intentionally STATIC. No blinking name.  -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,28:5b1b78,58:b83280,82:ff5ca8,100:ffc2e2&height=255&section=header&text=Lagna.&fontSize=86&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9C%A6%20Fullstack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20UI%20Enjoyer%20%E2%9C%A6&descSize=18&descAlignY=57&descColor=ffe9f7" width="100%" alt="Lagna header" />
+<!-- STATIC identity hero: no animation parameter on purpose -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,24:40205d,52:8f3f88,78:e45a9f,100:ffc7e5&height=280&section=header&text=Lagna.&fontSize=92&fontColor=ffffff&fontAlignY=35&desc=FULLSTACK%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20UI%20ENJOYER&descSize=17&descAlignY=56&descColor=ffeaf6" width="100%" alt="Lagna — Fullstack Developer" />
 
-<a href="https://github.com/5erax">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=750&color=F472B6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=850&height=70&lines=%E2%9C%A6+Building+useful+things+with+clean+interfaces;%E2%9A%A1+React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Spring+Boot;%F0%9F%8C%B8+Turning+ideas+into+polished+web+%26+mobile+experiences;%F0%9F%A7%A0+Readable+code+%C2%B7+Strong+UX+%C2%B7+Maintainable+systems" alt="Typing SVG" />
-</a>
+<!-- Motion lives in the tagline, never in the name -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=FF70B8&center=true&vCenter=true&repeat=true&random=false&width=900&height=55&lines=Building+clean+products+with+polished+interfaces+%E2%9C%A6;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Spring+Boot+%E2%9A%A1;Web+%2B+Mobile+%2B+APIs+%2B+Product+UX+%F0%9F%8C%8C;Readable+code.+Intentional+UX.+Useful+software." alt="Animated developer tagline" />
 
 <p>
-  <img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-ff4fa3?style=for-the-badge&labelColor=2a0d2f" alt="Open to work" />
-  <img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-b36bff?style=for-the-badge&labelColor=22102f" alt="Fullstack developer" />
-  <img src="https://img.shields.io/badge/REACT%20%2B%20NODE.JS-61dafb?style=for-the-badge&labelColor=101b26" alt="React and Node" />
-  <img src="https://img.shields.io/badge/VIETNAM-UTC%2B7-63e6be?style=for-the-badge&labelColor=10251f" alt="Vietnam UTC+7" />
+  <a href="https://github.com/5erax?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=18121f" /></a>
+  <a href="https://dha2608.vercel.app"><img src="https://img.shields.io/badge/OPEN-PORTFOLIO-FF5FA2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=271521" /></a>
+  <a href="https://linkedin.com/in/dha2608"><img src="https://img.shields.io/badge/LET'S-CONNECT-4F8DF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15223a" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/5erax">
-    <img src="https://komarev.com/ghpvc/?username=5erax&style=for-the-badge&color=ff5ca8&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/5erax?tab=followers">
-    <img src="https://img.shields.io/github/followers/5erax?style=for-the-badge&logo=github&label=FOLLOWERS&color=9d72ff&labelColor=271c3d" alt="Followers" />
-  </a>
-  <a href="https://github.com/5erax?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=17131f" alt="Repositories" />
-  </a>
+  <img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-FF4FA3?style=flat-square&labelColor=241025" />
+  <img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-B46CFF?style=flat-square&labelColor=21142c" />
+  <img src="https://img.shields.io/badge/VIETNAM-UTC%2B7-55D6BE?style=flat-square&labelColor=142924" />
+  <img src="https://komarev.com/ghpvc/?username=5erax&style=flat-square&color=FF5FA2&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/5erax?style=flat-square&logo=github&label=FOLLOWERS&color=9F7AEA&labelColor=20172d" />
 </p>
 
 </div>
 
-<!-- ============================= ABOUT ============================= -->
+<!-- QUICK NAV -->
+<div align="center">
+  <a href="#-about"><img src="https://img.shields.io/badge/ABOUT-1f1728?style=for-the-badge&labelColor=1f1728" /></a>
+  <a href="#-stack"><img src="https://img.shields.io/badge/STACK-2c1937?style=for-the-badge&labelColor=2c1937" /></a>
+  <a href="#-builds"><img src="https://img.shields.io/badge/BUILDS-49204f?style=for-the-badge&labelColor=49204f" /></a>
+  <a href="#-github"><img src="https://img.shields.io/badge/GITHUB-6d285f?style=for-the-badge&labelColor=6d285f" /></a>
+  <a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-963669?style=for-the-badge&labelColor=963669" /></a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0a3d,50:7a245f,100:c43a83&height=3&section=header" width="100%" />
 
-<h2 align="center">✦ &nbsp;ABOUT ME&nbsp; ✦</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b0f38,50:8c2e70,100:ff6bad&height=3" width="100%" />
+
+<!-- ============================================================ -->
+<!-- ABOUT -->
+<!-- ============================================================ -->
+
+<h2 align="center" id="-about">✦ ABOUT</h2>
+
+<div align="center">
+
+FULLSTACK DEVELOPER // PRODUCT-MINDED BUILDER
+I build practical web and mobile products with a strong focus on
+clear user flows · readable code · maintainable systems · polished UI.
+Currently building FinGenie — an AI-powered expense management app.
+
+<img src="https://img.shields.io/badge/FOCUS-Product%20Quality-FF5FA2?style=for-the-badge&labelColor=2b1424" />
+<img src="https://img.shields.io/badge/BUILDING-FinGenie-A855F7?style=for-the-badge&labelColor=24162f" />
+<img src="https://img.shields.io/badge/INTEREST-UI%20%2B%20APIs%20%2B%20Mobile-4F8DF7?style=for-the-badge&labelColor=16223b" />
+
+</div>
+
 
 <table>
 <tr>
-<td width="38%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
-LAGNA // 5ERAX
-<img src="https://img.shields.io/badge/STATUS-BUILDING-ff5ca8?style=flat-square&labelColor=241025" />
-<img src="https://img.shields.io/badge/ROLE-FULLSTACK-b36bff?style=flat-square&labelColor=241025" />
-
-
-📍 Vietnam · UTC+7
-💻 Frontend + Backend
-🎨 Clean UI / Product UX
-🔌 API Integration
-📱 Web + Mobile Apps
-🚀 Open to Work
-
-<a href="https://dha2608.vercel.app">
-  <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-%E2%86%97-ff69b4?style=for-the-badge&labelColor=341236" />
-</a>
-
+🎯 Ship
+From rough idea to a usable product.
+UX → UI → API → Delivery
 </td>
-<td width="62%" valign="top">
+<td width="33%" align="center" valign="top">
 
-const Lagna = {
+🧩 Engineer
+Build systems that stay understandable.
+Frontend → Backend → Data
+</td>
+<td width="33%" align="center" valign="top">
+
+✨ Polish
+Make the last 10% feel intentional.
+Flow → Feedback → Details
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🪪 Developer profile</b> — click to expand</summary>
+<br/>
+
+const profile = {
   name: "Lagna.",
   alias: "5erax",
   role: "Fullstack Developer",
-  location: "Vietnam 🇻🇳",
-
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "React Native"],
-    backend: ["Node.js", "Spring Boot"],
-    data: ["PostgreSQL", "MongoDB"],
-    tools: ["Docker", "Git", "GitHub Actions", "Figma"],
-  },
-
+  location: "Vietnam · UTC+7",
   building: "FinGenie — AI-powered expense management app",
-  interests: ["UI design", "API integration", "mobile apps"],
-  mindset: "Build useful things. Keep improving.",
+  strengths: ["UI", "Frontend", "Backend", "API integration"],
+  mindset: "Build useful things. Make them feel intentional."
 };
-</td>
-</tr>
-</table>
+</details>
+
+
+<!-- ============================================================ -->
+<!-- STACK -->
+<!-- ============================================================ -->
+
+<h2 align="center" id="-stack">⚡ STACK</h2>
 
 <div align="center">
 
-I build practical web and mobile products with a strong focus on readable code, clear user flows and interfaces that feel good to use.
-Currently building FinGenie, an AI-powered expense management app.
+FRONTEND / MOBILE
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,html,css&theme=dark" alt="Frontend stack" />
+
+
+
+
+BACKEND / DATA
+<img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mongodb&theme=dark" alt="Backend stack" />
+
+
+
+
+DEVOPS / WORKFLOW / DESIGN
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,figma,vscode&theme=dark" alt="Tools" />
+
+
+
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-1E4F8C?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-1B3321?style=for-the-badge&logo=nodedotjs&logoColor=7CC96D" />
+<img src="https://img.shields.io/badge/Spring%20Boot-19371E?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/PostgreSQL-192A45?style=for-the-badge&logo=postgresql&logoColor=88B6E8" />
+<img src="https://img.shields.io/badge/MongoDB-16331C?style=for-the-badge&logo=mongodb&logoColor=69D36F" />
 
 </div>
 
 
-<!-- ============================= STACK ============================= -->
+<!-- ============================================================ -->
+<!-- MISSION -->
+<!-- ============================================================ -->
 
-<h2 align="center">⚡ &nbsp;TECH ARSENAL&nbsp; ⚡</h2>
+<h2 align="center">🛰 CURRENT MISSION</h2>
 
 <div align="center">
 
-Frontend / Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,html,css&theme=dark" alt="Frontend skills" />
+BUILDING	IMPROVING	EXPLORING
+🧠 FinGenie	🎯 Product quality	🌱 Better systems
+AI expense management	UX · architecture · polish	AI · automation · mobile
 
-
-Backend / Data
-<img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mongodb&theme=dark" alt="Backend skills" />
-
-
-DevOps / Workflow / Design
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode&theme=dark" alt="Tools" />
-
-
-
-
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-1f4f8f?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-16351f?style=for-the-badge&logo=nodedotjs&logoColor=6cc24a" />
-<img src="https://img.shields.io/badge/Spring_Boot-16351f?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/PostgreSQL-1b2942?style=for-the-badge&logo=postgresql&logoColor=7da8d8" />
-<img src="https://img.shields.io/badge/MongoDB-16351f?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Docker-13233c?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Figma-2b1734?style=for-the-badge&logo=figma&logoColor=f26b5b" />
 
 </div>
 
 
-<!-- ============================= CURRENT ============================= -->
+<!-- ============================================================ -->
+<!-- BUILDS -->
+<!-- ============================================================ -->
 
-<h2 align="center">🛰️ &nbsp;CURRENT MISSION&nbsp; 🛰️</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-🧠 Building
-FinGenie
-AI-powered expense management
-</td>
-<td align="center" width="33%">
-
-🎯 Improving
-Product quality
-UX · architecture · polish
-</td>
-<td align="center" width="33%">
-
-🌱 Exploring
-Better systems
-AI · automation · mobile
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ============================= JOURNEY ============================= -->
-
-<h2 align="center">🪐 &nbsp;MY JOURNEY&nbsp; 🪐</h2>
-
-<table>
-<tr>
-<td width="18%" align="center">
-
-2024 → NOW
-<img src="https://img.shields.io/badge/ACTIVE-ff4fa3?style=flat-square&labelColor=2c102c" />
-
-</td>
-<td width="82%">
-
-Fullstack Developer
-Building web and mobile applications with a focus on clean architecture, usable interfaces, and maintainable systems.
-React · Node.js · PostgreSQL · Spring Boot · Docker
-</td>
-</tr>
-<tr>
-<td width="18%" align="center">
-
-2023
-<img src="https://img.shields.io/badge/INTERNSHIP-9b7cff?style=flat-square&labelColor=241a36" />
-
-</td>
-<td width="82%">
-
-Frontend Intern
-Worked on responsive layouts, reusable components, and interface consistency.
-React · TypeScript · Figma
-</td>
-</tr>
-<tr>
-<td width="18%" align="center">
-
-2020 → 2024
-<img src="https://img.shields.io/badge/FOUNDATION-55d6be?style=flat-square&labelColor=142c29" />
-
-</td>
-<td width="82%">
-
-Computer Science Studies
-Built a foundation in programming, databases, algorithms, networking, and software development.
-Algorithms · Databases · Networking · Software Engineering
-</td>
-</tr>
-</table>
-
-
-<!-- ============================= STATS ============================= -->
-
-<h2 align="center">📊 &nbsp;GITHUB CONTROL ROOM&nbsp; 📊</h2>
+<h2 align="center" id="-builds">🚀 FEATURED BUILDS</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&theme=radical" width="98%" alt="GitHub profile summary" />
+<a href="https://github.com/5erax/geoconnect">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5erax&repo=geoconnect&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" />
+</a>
+<a href="https://github.com/5erax/CVmate">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5erax&repo=CVmate&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" />
+</a>
+
+<a href="https://github.com/5erax/ecomerce-mobile">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5erax&repo=ecomerce-mobile&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" />
+</a>
+<a href="https://github.com/5erax/Flowery">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5erax&repo=Flowery&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" />
+</a>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5erax&theme=radical" width="32.3%" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5erax&theme=radical" width="32.3%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5erax&theme=radical" width="32.3%" alt="Most commit language" />
 
-
-
-
-<img src="https://streak-stats.demolab.com?user=5erax&theme=radical&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub streak" />
-
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=5erax&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" width="98%" alt="GitHub trophies" />
-
-</div>
-
-
-<!-- ============================= ACTIVITY ============================= -->
-
-<h2 align="center">🌌 &nbsp;CONTRIBUTION PULSE&nbsp; 🌌</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=5erax&bg_color=0d0714&color=f3c2e4&line=ff5ca8&point=b96cff&area=true&area_color=6d205b&hide_border=true&radius=12&custom_title=5erax%20%E2%80%94%20Contribution%20Activity" width="98%" alt="Contribution activity graph" />
-
-</div>
-
-
-<!-- ============================= PROJECTS ============================= -->
-
-<h2 align="center">🚀 &nbsp;FEATURED BUILDS&nbsp; 🚀</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🌍 GeoConnect
-Location-based social networking app
-
-Connects nearby users and helps them discover places and events around them in real time.
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-23321f?style=flat-square&logo=nodedotjs&logoColor=7fcf63" />
-<img src="https://img.shields.io/badge/Socket.io-222?style=flat-square&logo=socketdotio&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-🤖 CVmate
-AI-assisted CV builder
-
-Helps users generate a structured CV and export it to PDF with less manual formatting.
-<img src="https://img.shields.io/badge/JavaScript-29251a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/AI%2FLLM-5b2a86?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/PDF-5f2020?style=flat-square&logo=adobeacrobatreader&logoColor=ff7777" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🛒 Ecomerce Mobile
-Cross-platform shopping app
-
-Mobile shopping app with product browsing, cart management, checkout, and order tracking.
-<img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-23321f?style=flat-square&logo=nodedotjs&logoColor=7fcf63" />
-<img src="https://img.shields.io/badge/MongoDB-18331e?style=flat-square&logo=mongodb&logoColor=69d36f" />
-
-</td>
-<td width="50%" valign="top">
-
-🌸 Flowery
-Online flower shop website
-
-Flower shop website with product categories, ordering flow, and a clean pastel interface.
-<img src="https://img.shields.io/badge/HTML-4d241c?style=flat-square&logo=html5&logoColor=ff8266" />
-<img src="https://img.shields.io/badge/CSS-1d2957?style=flat-square&logo=css3&logoColor=77a7ff" />
-<img src="https://img.shields.io/badge/JavaScript-29251a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-📚 MLN Web
-Learning website for Mác-Lênin course materials
-
-A study website that collects materials, lectures, and review content for students.
-<img src="https://img.shields.io/badge/TypeScript-214d77?style=flat-square&logo=typescript&logoColor=8cc8ff" />
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-34205c?style=flat-square&logo=vite&logoColor=cfa6ff" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-✦ More Experiments
-More projects, prototypes, school work and experiments live in my repositories.
 
 <a href="https://github.com/5erax?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOS-%E2%86%92-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=24102f" />
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=21152A" />
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 
-<!-- ============================= SPOTIFY ============================= -->
+<!-- ============================================================ -->
+<!-- GITHUB -->
+<!-- ============================================================ -->
 
-<h2 align="center">🎧 &nbsp;CURRENTLY LISTENING&nbsp; 🎧</h2>
+<h2 align="center" id="-github">📊 GITHUB CONTROL ROOM</h2>
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&theme=radical" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5erax&theme=rose_pine" alt="GitHub profile details" />
+</picture>
+
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=5erax&show_icons=true&hide_border=true&rank_icon=github&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&icon_color=A976FF" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5erax&layout=compact&hide_border=true&bg_color=120F1B&title_color=FF6BAA&text_color=E9DFF0&langs_count=8" alt="Top languages" />
+
+
+
+
+<img width="72%" src="https://streak-stats.demolab.com?user=5erax&hide_border=true&background=120F1B&ring=FF5FA2&fire=FF8E6E&currStreakLabel=FF6BAA&sideNums=E9DFF0&currStreakNum=FFFFFF&sideLabels=BDAFC8&dates=8E8299" alt="GitHub streak" />
+
+
+
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=5erax&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+
+<!-- ============================================================ -->
+<!-- JOURNEY -->
+<!-- ============================================================ -->
+
+<h2 align="center">🪐 JOURNEY</h2>
+
+2024 → NOW Fullstack Developer
+Building web and mobile applications with an emphasis on maintainable architecture, usable interfaces, and complete product flows.
+
+2023 Frontend Intern
+Responsive layouts, reusable components, TypeScript, interface consistency, and Figma collaboration.
+
+2020 → 2024 Computer Science Studies
+Programming, databases, algorithms, networking, and software engineering foundations.
+
+
+<!-- ============================================================ -->
+<!-- MUSIC -->
+<!-- ============================================================ -->
+
+<h2 align="center">🎧 CURRENTLY LISTENING</h2>
+
+<div align="center">
 <a href="https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&width=650&unique=true" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&width=700&unique=true" alt="Spotify recently played" />
 </a>
-
 </div>
 
 
-<!-- ============================= PHILOSOPHY ============================= -->
+<!-- ============================================================ -->
+<!-- PHILOSOPHY -->
+<!-- ============================================================ -->
 
-<h2 align="center">💫 &nbsp;BUILD PHILOSOPHY&nbsp; 💫</h2>
+<h2 align="center">💫 BUILD PHILOSOPHY</h2>
 
 <div align="center">
 
-╭─────────────────────────────────────────────────────────────────────╮
-│                                                                     │
-│   Build useful things.                                              │
-│   Keep the code understandable.                                     │
-│   Make the interface feel intentional.                              │
-│   Improve the product one meaningful step at a time.                │
-│                                                                     │
-╰─────────────────────────────────────────────────────────────────────╯
+Useful > flashy   ·   Clear > clever   ·   Polished > unfinished
+Build useful things. Keep the code understandable. Make the interface feel intentional.
 </div>
 
-<!-- ============================= CONNECT ============================= -->
 
-<h2 align="center">🔗 &nbsp;CONNECT WITH ME&nbsp; 🔗</h2>
+<!-- ============================================================ -->
+<!-- CONNECT -->
+<!-- ============================================================ -->
+
+<h2 align="center" id="-connect">🔗 CONNECT</h2>
 
 <div align="center">
 
-<a href="https://github.com/5erax">
-  <img src="https://img.shields.io/badge/GitHub-5erax-9d72ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1b1726" />
-</a>
-<a href="https://linkedin.com/in/dha2608">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4f8df7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=132238" />
-</a>
-<a href="https://dha2608.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-56d6b0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=132922" />
-</a>
-<a href="mailto:dha2608@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-ff6ba8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=341522" />
-</a>
+<a href="https://github.com/5erax"><img src="https://img.shields.io/badge/GITHUB-5ERAX-9D72FF?style=for-the-badge&logo=github&logoColor=white&labelColor=191523" /></a>
+<a href="https://linkedin.com/in/dha2608"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4F8DF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14213A" /></a>
+<a href="https://dha2608.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-55D6BE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=142823" /></a>
+<a href="mailto:dha2608@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF6BAA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=31131F" /></a>
 
 
 
-
-<a href="https://github.com/5erax">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=C8A4FF&center=true&vCenter=true&repeat=true&width=700&height=42&lines=Thanks+for+stopping+by+%E2%9C%A6;Feel+free+to+explore+my+projects+%F0%9F%9A%80;Let%27s+build+something+beautiful+and+useful+%F0%9F%8C%B8" alt="Closing typing animation" />
-</a>
+<!-- Animated closing line only; identity remains static everywhere -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1100&color=C8A4FF&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Thanks+for+visiting+%E2%9C%A6;Explore+the+projects%2C+break+things%2C+build+better+ones+%F0%9F%9A%80;Let%27s+make+something+useful+and+beautiful+%F0%9F%8C%B8" alt="Closing animation" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,28:5b1b78,58:b83280,82:ff5ca8,100:ffc2e2&height=145&section=footer&animation=twinkling" width="100%" alt="Footer" />
+<!-- Animated footer is allowed; no name/identity text inside it -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,24:40205d,52:8f3f88,78:e45a9f,100:ffc7e5&height=150&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
