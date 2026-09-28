@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Lagna. — Fullstack developer</title>
+  <desc id="desc">Thoughtful interfaces. Useful applications. A violet and rose illustration connects interface, logic, and data.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171424"/>
+      <stop offset="0.56" stop-color="#11121F"/>
+      <stop offset="1" stop-color="#21182B"/>
+    </linearGradient>
+    <linearGradient id="name" x1="64" y1="100" x2="455" y2="208" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FAF5FF"/>
+      <stop offset="0.58" stop-color="#D8C5FF"/>
+      <stop offset="1" stop-color="#F2BFD8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="824" y1="68" x2="1182" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#292239"/>
+      <stop offset="1" stop-color="#191925"/>
+    </linearGradient>
+    <linearGradient id="connection" x1="905" y1="110" x2="1100" y2="311" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BC9EF3"/>
+      <stop offset="1" stop-color="#EDA9CA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1038 208) rotate(90) scale(285 370)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A77BDD" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#A77BDD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#D9C4FB" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="bounds"><rect x="1" y="1" width="1278" height="418" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="420" fill="url(#background)"/>
+    <rect x="672" width="608" height="420" fill="url(#grid)"/>
+    <rect width="1280" height="420" fill="url(#glow)"/>
+    <circle cx="1018" cy="210" r="240" stroke="#C6ADEB" stroke-opacity="0.07"/>
+    <circle cx="1018" cy="210" r="177" stroke="#C6ADEB" stroke-opacity="0.07"/>
+    <path d="M65 33H228" stroke="#D0ADF9" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="65" cy="75" r="4" fill="#BDACDF"/>
+    <text x="81" y="81" fill="#C5B6DB" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3.5">FULLSTACK DEVELOPER</text>
+    <text x="60" y="193" fill="url(#name)" font-family="'Segoe UI',Arial,sans-serif" font-size="108" font-weight="750" letter-spacing="-6">Lagna.</text>
+    <text x="65" y="252" fill="#F5EFFB" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="500" letter-spacing="-0.6">Thoughtful interfaces.</text>
+    <text x="65" y="294" fill="#B6A8C9" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="500" letter-spacing="-0.6">Useful applications.</text>
+    <path d="M65 327H622" stroke="#362C43"/>
+    <text x="65" y="365" fill="#B2A5C6" font-family="'Segoe UI',Arial,sans-serif" font-size="17" letter-spacing="2">5ERAX</text>
+    <circle cx="155" cy="359" r="2" fill="#766780"/>
+    <text x="172" y="365" fill="#B2A5C6" font-family="'Segoe UI',Arial,sans-serif" font-size="17" letter-spacing="2">VIETNAM / UTC+7</text>
+    <path d="M980 148V158C980 165 986 170 993 170H1060C1067 170 1073 175 1073 182V190M1073 242V257C1073 264 1067 270 1060 270H970C963 270 957 276 957 283V291" stroke="url(#connection)" stroke-width="1.5" stroke-dasharray="4 5"/>
+    <rect x="824" y="66" width="292" height="84" rx="18" fill="url(#card)" stroke="#514060"/>
+    <rect x="842" y="84" width="48" height="48" rx="12" fill="#B899EF" fill-opacity="0.11"/>
+    <rect x="855" y="97" width="22" height="20" rx="3" stroke="#C7AAF7" stroke-width="1.7"/>
+    <path d="M855 103H877M863 103V117" stroke="#C7AAF7" stroke-width="1.5"/>
+    <text x="908" y="101" fill="#9683AD" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2">01 / EXPERIENCE</text>
+    <text x="908" y="126" fill="#F1E8FC" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600">Interface</text>
+    <circle cx="1092" cy="90" r="3" fill="#C7AAF7"/>
+    <rect x="889" y="168" width="292" height="84" rx="18" fill="url(#card)" stroke="#594264"/>
+    <rect x="907" y="186" width="48" height="48" rx="12" fill="#D6ACE7" fill-opacity="0.1"/>
+    <path d="M925 203L918 210L925 217M937 203L944 210L937 217M934 199L928 221" stroke="#D9B8EE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="973" y="203" fill="#A389AF" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2">02 / BEHAVIOR</text>
+    <text x="973" y="228" fill="#F1E8FC" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600">Logic</text>
+    <circle cx="1157" cy="192" r="3" fill="#D9B8EE"/>
+    <rect x="808" y="270" width="292" height="84" rx="18" fill="url(#card)" stroke="#574050"/>
+    <rect x="826" y="288" width="48" height="48" rx="12" fill="#E7ADCA" fill-opacity="0.1"/>
+    <ellipse cx="850" cy="303" rx="11" ry="4" stroke="#E7B3CF" stroke-width="1.7"/>
+    <path d="M839 303V319C839 321.2 843.9 323 850 323C856.1 323 861 321.2 861 319V303M839 311C839 313.2 843.9 315 850 315C856.1 315 861 313.2 861 311" stroke="#E7B3CF" stroke-width="1.7"/>
+    <text x="892" y="305" fill="#AF8A9E" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2">03 / FOUNDATION</text>
+    <text x="892" y="330" fill="#F1E8FC" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600">Data</text>
+    <circle cx="1076" cy="294" r="3" fill="#E7B3CF"/>
+    <path d="M755 104H765M760 99V109M1183 303H1193M1188 298V308" stroke="#876F9D" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="1150" cy="358" r="3" fill="#D4A8CB" fill-opacity="0.5"/>
+    <circle cx="796" cy="229" r="2" fill="#C7AAF7" fill-opacity="0.45"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="418" rx="28" stroke="#3A2E48"/>
+</svg>
