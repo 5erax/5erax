@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dha2608.vercel.app"><img src="./assets/link-portfolio.svg" alt="View my portfolio" width="30%" /></a>
+  <a href="#selected-work"><img src="./assets/link-portfolio.svg?v=selected-work" alt="View selected work" width="30%" /></a>
   <a href="https://linkedin.com/in/dha2608"><img src="./assets/link-linkedin.svg" alt="Connect on LinkedIn" width="30%" /></a>
   <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg" alt="Email lagna0175@gmail.com" width="30%" /></a>
 </p>
