@@ -1,56 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="72" viewBox="0 0 1280 72" role="img" aria-labelledby="divider-title divider-description">
-  <title id="divider-title">Lagna — orbital signal</title>
-  <desc id="divider-description">A delicate violet and rose signal, framed by curved orbital traces. A soft point of light travels slowly across the transparent divider.</desc>
-  <defs>
-    <linearGradient id="signal" x1="64" y1="36" x2="1216" y2="36" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#9B7BFF" stop-opacity="0"/>
-      <stop offset=".18" stop-color="#9B7BFF" stop-opacity=".22"/>
-      <stop offset=".42" stop-color="#B79BFF" stop-opacity=".74"/>
-      <stop offset=".58" stop-color="#F3A1D8" stop-opacity=".74"/>
-      <stop offset=".82" stop-color="#EF91CE" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#EF91CE" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="orbit" x1="192" y1="36" x2="1088" y2="36" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#9B7BFF" stop-opacity="0"/>
-      <stop offset=".3" stop-color="#A98CFF" stop-opacity=".3"/>
-      <stop offset=".5" stop-color="#D5B9FF" stop-opacity=".04"/>
-      <stop offset=".7" stop-color="#E799D0" stop-opacity=".3"/>
-      <stop offset="1" stop-color="#E799D0" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="traveler" x1="64" y1="36" x2="1216" y2="36" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#AF9CFF" stop-opacity="0"/>
-      <stop offset=".14" stop-color="#B8A5FF" stop-opacity=".65"/>
-      <stop offset=".48" stop-color="#CBEDFF"/>
-      <stop offset=".66" stop-color="#F5B9E8" stop-opacity=".9"/>
-      <stop offset=".86" stop-color="#EEA0D5" stop-opacity=".65"/>
-      <stop offset="1" stop-color="#EEA0D5" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="signal-glow" filterUnits="userSpaceOnUse" x="0" y="12" width="1280" height="48" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
-    <filter id="point-glow" filterUnits="userSpaceOnUse" x="0" y="12" width="1280" height="48" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="2.5"/>
-    </filter>
-    <style>
-      .travel { animation: signal-travel 13s linear infinite; }
-      @keyframes signal-travel {
-        from { stroke-dashoffset: 1000; }
-        to { stroke-dashoffset: 0; }
-      }
-      @media (prefers-reduced-motion: reduce) {
-        *, *::before, *::after { animation: none !important; }
-        .travel { stroke-dashoffset: 500; }
-      }
-    </style>
-  </defs>
-  <g fill="none">
-    <path d="M64 36H1216" stroke="url(#signal)" stroke-width="3" opacity=".28" filter="url(#signal-glow)"/>
-    <path d="M64 36H1216" stroke="url(#signal)" stroke-width=".85"/>
-    <path d="M192 36H310C398 36 406 19 488 19H579M701 53H792C874 53 882 36 970 36H1088" stroke="url(#orbit)" stroke-width=".7"/>
-    <path d="M246 36H326C414 36 422 53 504 53H555M725 19H776C858 19 866 36 954 36H1034" stroke="url(#orbit)" stroke-width=".6" opacity=".6"/>
-    <path class="travel" d="M64 36H1216" pathLength="1000" stroke="url(#traveler)" stroke-width="5" stroke-linecap="round" stroke-dasharray="3 997" stroke-dashoffset="1000" opacity=".8" filter="url(#point-glow)"/>
-    <path class="travel" d="M64 36H1216" pathLength="1000" stroke="url(#traveler)" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="3 997" stroke-dashoffset="1000"/>
-    <ellipse cx="640" cy="36" rx="12" ry="6" stroke="#C2AAEF" stroke-width=".65" opacity=".27"/>
-  </g>
-  <circle cx="640" cy="36" r="1.5" fill="#E0C9FF" opacity=".82"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="96" viewBox="0 0 1280 96" fill="none" role="img" aria-labelledby="t d">
+<title id="t">Lagna — woven light</title><desc id="d">Violet and cyan filaments braid into a flowing optical knot, carrying two slow light signals.</desc>
+<defs>
+<linearGradient id="thread" x1="56" y1="48" x2="1224" y2="48" gradientUnits="userSpaceOnUse"><stop stop-color="#806CB0" stop-opacity="0"/><stop offset=".3" stop-color="#8871BC" stop-opacity=".45"/><stop offset=".46" stop-color="#A17DCF"/><stop offset=".59" stop-color="#C180B6"/><stop offset=".78" stop-color="#A179BB" stop-opacity=".4"/><stop offset="1" stop-color="#B07EB7" stop-opacity="0"/></linearGradient>
+<linearGradient id="thread2" x1="56" y1="48" x2="1224" y2="48" gradientUnits="userSpaceOnUse"><stop stop-color="#588BA1" stop-opacity="0"/><stop offset=".3" stop-color="#698DB1" stop-opacity=".35"/><stop offset=".48" stop-color="#6B9CB5"/><stop offset=".62" stop-color="#9A85BD"/><stop offset=".8" stop-color="#A17DB7" stop-opacity=".35"/><stop offset="1" stop-color="#7F71A1" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="0" y="0" width="1280" height="96" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.braid{transform-origin:640px 48px;animation:breathe 13s ease-in-out infinite}.light{animation:travel 17s linear infinite}.light-b{animation:travel 21s linear infinite reverse}@keyframes breathe{0%,100%{transform:scaleY(.82)}50%{transform:scaleY(1.04)}}@keyframes travel{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}.light,.light-b{stroke-dashoffset:500}}</style>
+</defs><g class="braid">
+<path d="M56 48H418C497 48 518 31 569 31C622 31 658 65 711 65C762 65 783 48 862 48H1224" stroke="url(#thread)" stroke-width=".5" opacity=".3"/>
+<path d="M56 48H418C497 48 518 29.7 569 29.7C622 29.7 658 66.3 711 66.3C762 66.3 783 48 862 48H1224" stroke="url(#thread)" stroke-width=".5" opacity=".3"/>
+<path d="M56 48H418C497 48 518 28.4 569 28.4C622 28.4 658 67.6 711 67.6C762 67.6 783 48 862 48H1224" stroke="url(#thread)" stroke-width=".5" opacity=".3"/>
+<path d="M56 48H418C497 48 518 27.1 569 27.1C622 27.1 658 68.9 711 68.9C762 68.9 783 48 862 48H1224" stroke="url(#thread)" stroke-width=".5" opacity=".3"/>
+<path d="M56 48H418C497 48 518 25.8 569 25.8C622 25.8 658 70.2 711 70.2C762 70.2 783 48 862 48H1224" stroke="url(#thread)" stroke-width="1.05" opacity=".85"/>
+<path d="M56 48H418C497 48 518 24.5 569 24.5C622 24.5 658 71.5 711 71.5C762 71.5 783 48 862 48H1224" stroke="url(#thread)" stroke-width=".5" opacity=".3"/>
+<path d="M56 48H418C497 48 518 23.2 569 23.2C622 23.2 658 72.8 711 72.8C762 72.8 783 48 862 48H1224" stroke="url(#thread)" stroke-width=".5" opacity=".3"/>
+<path d="M56 48H418C497 48 518 21.9 569 21.9C622 21.9 658 74.1 711 74.1C762 74.1 783 48 862 48H1224" stroke="url(#thread)" stroke-width=".5" opacity=".3"/>
+<path d="M56 48H418C497 48 518 20.6 569 20.6C622 20.6 658 75.4 711 75.4C762 75.4 783 48 862 48H1224" stroke="url(#thread)" stroke-width=".5" opacity=".3"/>
+<path d="M56 48H418C497 48 518 66 569 66C622 66 658 30 711 30C762 30 783 48 862 48H1224" stroke="url(#thread2)" stroke-width=".65" opacity=".25"/>
+<path d="M56 48H418C497 48 518 67.2 569 67.2C622 67.2 658 28.8 711 28.8C762 28.8 783 48 862 48H1224" stroke="url(#thread2)" stroke-width=".65" opacity=".25"/>
+<path d="M56 48H418C497 48 518 68.4 569 68.4C622 68.4 658 27.6 711 27.6C762 27.6 783 48 862 48H1224" stroke="url(#thread2)" stroke-width=".65" opacity=".25"/>
+<path d="M56 48H418C497 48 518 69.6 569 69.6C622 69.6 658 26.4 711 26.4C762 26.4 783 48 862 48H1224" stroke="url(#thread2)" stroke-width=".65" opacity=".75"/>
+<path d="M56 48H418C497 48 518 70.8 569 70.8C622 70.8 658 25.2 711 25.2C762 25.2 783 48 862 48H1224" stroke="url(#thread2)" stroke-width=".65" opacity=".25"/>
+<path d="M56 48H418C497 48 518 72 569 72C622 72 658 24 711 24C762 24 783 48 862 48H1224" stroke="url(#thread2)" stroke-width=".65" opacity=".25"/>
+<path d="M56 48H418C497 48 518 73.2 569 73.2C622 73.2 658 22.8 711 22.8C762 22.8 783 48 862 48H1224" stroke="url(#thread2)" stroke-width=".65" opacity=".25"/>
+<path class="light" d="M56 48H418C497 48 518 26 569 26C622 26 658 70 711 70C762 70 783 48 862 48H1224" pathLength="1000" stroke="url(#thread)" stroke-width="2.5" stroke-dasharray="18 982" stroke-linecap="round" filter="url(#glow)"/>
+<path class="light-b" d="M56 48H418C497 48 518 70 569 70C622 70 658 26 711 26C762 26 783 48 862 48H1224" pathLength="1000" stroke="url(#thread2)" stroke-width="2" stroke-dasharray="7 993" stroke-linecap="round" filter="url(#glow)"/>
+</g></svg>

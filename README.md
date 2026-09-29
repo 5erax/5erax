@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg?v=ui-motion" alt="Lagna. — Fullstack developer focused on UI and motion. Currently building ProZ0." width="100%" />
+  <img src="./assets/profile-header.svg?v=prismatic" alt="Lagna. — Fullstack developer focused on UI and motion. Currently building ProZ0." width="100%" />
 </p>
 
 <h1 align="center">A developer with an eye for the interface.</h1>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work"><img src="./assets/link-portfolio.svg?v=selected-work" alt="View selected work" width="30%" /></a>
-  <a href="https://linkedin.com/in/dha2608"><img src="./assets/link-linkedin.svg" alt="Connect on LinkedIn" width="30%" /></a>
-  <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg" alt="Email lagna0175@gmail.com" width="30%" /></a>
+  <a href="#selected-work"><img src="./assets/link-portfolio.svg?v=prismatic" alt="View selected work" width="30%" /></a>
+  <a href="https://linkedin.com/in/dha2608"><img src="./assets/link-linkedin.svg?v=prismatic" alt="Connect on LinkedIn" width="30%" /></a>
+  <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg?v=prismatic" alt="Email lagna0175@gmail.com" width="30%" /></a>
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
   <a href="#behind-the-interface">Behind the interface</a>
 </p>
 
-<p align="center"><img src="./assets/profile-divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/profile-divider.svg?v=prismatic" alt="" width="100%" /></p>
 
 ## Selected work
 
 ### ProZ0 · Current focus
 
 <a href="https://github.com/5erax/ProZ0">
-  <img src="./assets/proz0-cover.svg" alt="ProZ0 — animated project cover for a pixel-art survival sandbox. Current focus; in development." width="100%" />
+  <img src="./assets/proz0-cover.svg?v=prismatic" alt="ProZ0 — animated project cover for a pixel-art survival sandbox. Current focus; in development." width="100%" />
 </a>
 
 A browser-first **2D pixel-art survival and exploration sandbox** about building a new civilization and uncovering the traces of an older one. My current priority is its **Phase 1 vertical slice**.
@@ -41,7 +41,7 @@ A browser-first **2D pixel-art survival and exploration sandbox** about building
 ### MediMate AI · Featured
 
 <a href="https://github.com/5erax/SEP490_FE_MedicalAIAssistant">
-  <img src="./assets/medimate-cover.svg" alt="MediMate AI — a scrolling preview of the actual healthcare web interface, with symptom intake and care discovery." width="100%" />
+  <img src="./assets/medimate-cover.svg?v=prismatic" alt="MediMate AI — original animated cover art with a sculptural mint-glass shield and flowing silk contours." width="100%" />
 </a>
 
 An **AI-assisted pre-visit healthcare interface** for symptom intake, care discovery, and patient workflows. A different design challenge: making complex information feel clear, calm, and approachable.
@@ -68,11 +68,11 @@ An **AI-assisted pre-visit healthcare interface** for symptom intake, care disco
 
 </details>
 
-<p align="center"><img src="./assets/profile-divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/profile-divider.svg?v=prismatic" alt="" width="100%" /></p>
 
 ## Interface lab
 
-<img src="./assets/interface-lab.svg" alt="Three original animated UI studies: visual hierarchy, a toggle with interaction feedback, and layered page transitions." width="100%" />
+<img src="./assets/interface-lab.svg?v=prismatic" alt="Three original animated UI studies: expressive typography, a spring toggle with orbital feedback, and a shared-element card transition." width="100%" />
 
 I care about the whole interaction: how a layout guides attention, how a control responds, and how one state becomes the next.
 
@@ -80,7 +80,7 @@ I care about the whole interaction: how a layout guides attention, how a control
 **Micro-interactions** · Clear feedback in the small moments.  
 **Motion systems** · Timing, easing, and continuity between states.
 
-<sub>The panel above contains original motion studies; the MediMate preview shows the actual project interface.</sub>
+<sub>Original SVG motion studies and project cover artwork.</sub>
 
 ## Behind the interface
 
@@ -134,12 +134,12 @@ The visual layer is where I put extra care. Underneath it, I build the component
 
 </details>
 
-<p align="center"><img src="./assets/profile-divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/profile-divider.svg?v=prismatic" alt="" width="100%" /></p>
 
 <h2 align="center">Let's make it work. And make it feel right.</h2>
 
 <p align="center">
   Open to frontend and fullstack opportunities, especially where <strong>UI and interaction matter.</strong><br /><br />
-  <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg" alt="Let's talk — lagna0175@gmail.com" width="240" /></a><br />
+  <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg?v=prismatic" alt="Let's talk — lagna0175@gmail.com" width="240" /></a><br />
   <a href="mailto:lagna0175@gmail.com">lagna0175@gmail.com</a>
 </p>

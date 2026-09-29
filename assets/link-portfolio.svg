@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="72" viewBox="0 0 360 72" fill="none" role="img" aria-labelledby="t"><title id="t">SELECTED WORK</title><defs><linearGradient id="g"><stop stop-color="#C4B0F3"/><stop offset="1" stop-color="#84D5DB"/></linearGradient><style>.r{animation:orbit 16s linear infinite}@keyframes orbit{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs><rect x="1" y="1" width="358" height="70" rx="13" fill="#101220" stroke="#33314A"/><rect class="r" x="1" y="1" width="358" height="70" rx="13" pathLength="1000" stroke="url(#g)" stroke-dasharray="150 850" stroke-width="1.4"/><text x="180" y="42" text-anchor="middle" fill="#C4B0F3" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="2">SELECTED WORK</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="84" viewBox="0 0 360 84" fill="none" role="img" aria-labelledby="t d">
+<title id="t">SELECTED WORK</title><desc id="d">A sculpted dark link with a softly traveling iridescent edge and a directional arrow.</desc>
+<defs>
+<linearGradient id="surface" x2="360" y2="84" gradientUnits="userSpaceOnUse"><stop stop-color="#252239"/><stop offset=".38" stop-color="#151624"/><stop offset="1" stop-color="#101321"/></linearGradient>
+<linearGradient id="rim"><stop stop-color="#9CCBD9"/><stop offset=".5" stop-color="#C6B1F4"/><stop offset="1" stop-color="#9CCBD9"/></linearGradient>
+<linearGradient id="shine"><stop stop-color="#C6B1F4" stop-opacity="0"/><stop offset=".48" stop-color="#C6B1F4" stop-opacity=".14"/><stop offset=".6" stop-color="#FFF" stop-opacity=".045"/><stop offset="1" stop-color="#C6B1F4" stop-opacity="0"/></linearGradient>
+<clipPath id="shape"><path d="M17 4H327L356 28V67Q356 80 343 80H33L4 56V17Q4 4 17 4Z"/></clipPath>
+<style>.edge{animation:edge 18s linear infinite;animation-delay:0s}.foil{animation:foil 12s ease-in-out infinite;animation-delay:0s}.arrow{animation:arrow 7s cubic-bezier(.4,0,.2,1) infinite;animation-delay:0s}@keyframes edge{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}@keyframes foil{0%,18%{transform:translateX(-220px)}65%,100%{transform:translateX(400px)}}@keyframes arrow{0%,35%,100%{transform:translateX(0)}52%,65%{transform:translateX(3px)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}.foil{display:none}}</style>
+</defs>
+<path d="M17 4H327L356 28V67Q356 80 343 80H33L4 56V17Q4 4 17 4Z" fill="url(#surface)" stroke="#454059"/>
+<g clip-path="url(#shape)"><path class="foil" d="M0 0H110L160 84H50Z" fill="url(#shine)"/><path d="M20 8H326L351 29" stroke="#BCABD6" stroke-opacity=".18"/><path d="M35 76H339" stroke="#050610" stroke-opacity=".65"/></g>
+<path class="edge" d="M17 4H327L356 28V67Q356 80 343 80H33L4 56V17Q4 4 17 4Z" pathLength="1000" stroke="url(#rim)" stroke-width="1.2" stroke-dasharray="105 895" opacity=".8"/>
+<text x="164" y="48" text-anchor="middle" fill="#C6B1F4" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="1.6">SELECTED WORK</text>
+<path class="arrow" d="M305 42H319M313 36L319 42L313 48" stroke="#C6B1F4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
