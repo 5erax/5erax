@@ -125,12 +125,12 @@ The visual layer is where I put extra care. Underneath it, I build the component
 <br />
 
 <p align="center">
-  <a href="https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&amp;width=600&amp;unique=true" alt="Lagna.'s recently played tracks on Spotify" width="600" loading="lazy" />
+  <a href="https://open.spotify.com/user/317a5piogpvphdsatuu2a4b42dgm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a4b42dgm&amp;width=600&amp;unique=true" alt="Lagna.'s recently played tracks on Spotify" width="600" loading="lazy" />
   </a>
 </p>
 
-[Find me on Spotify →](https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm)
+[Find me on Spotify →](https://open.spotify.com/user/317a5piogpvphdsatuu2a4b42dgm)
 
 </details>
 
