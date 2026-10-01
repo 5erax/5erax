@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-header.svg?v=prismatic" alt="Lagna. — Fullstack developer focused on UI and motion. Currently building ProZ0." width="100%" />
+  <img src="./assets/profile-header.svg?v=prismatic" alt="Astraa — Fullstack developer focused on UI and motion. Currently building ProZ0." width="100%" />
 </p>
 
 <h1 align="center">A developer with an eye for the interface.</h1>
 
 <p align="center">
-  I'm <strong>Lagna.</strong>, a fullstack developer in Vietnam.<br />
+  I'm <strong>Astraa</strong>, a fullstack developer in Vietnam.<br />
   My strongest focus is <strong>expressive UI, thoughtful motion, and the details that make an experience feel finished.</strong>
 </p>
 
@@ -126,7 +126,7 @@ The visual layer is where I put extra care. Underneath it, I build the component
 
 <p align="center">
   <a href="https://open.spotify.com/user/317a5piogpvphdsatuu2a4b42dgm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a4b42dgm&amp;width=600&amp;unique=true" alt="Lagna.'s recently played tracks on Spotify" width="600" loading="lazy" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a4b42dgm&amp;width=600&amp;unique=true" alt="Astraa's recently played tracks on Spotify" width="600" loading="lazy" />
   </a>
 </p>
 
