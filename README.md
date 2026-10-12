@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#selected-work"><img src="./assets/link-portfolio.svg?v=prismatic" alt="View selected work" width="30%" /></a>
-  <a href="https://linkedin.com/in/dha2608"><img src="./assets/link-linkedin.svg?v=prismatic" alt="Connect on LinkedIn" width="30%" /></a>
+  <a href="https://linkedin.com/in/"><img src="./assets/link-linkedin.svg?v=prismatic" alt="Connect on LinkedIn" width="30%" /></a>
   <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg?v=prismatic" alt="Email lagna0175@gmail.com" width="30%" /></a>
 </p>
 
