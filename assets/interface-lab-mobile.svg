@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="1100" viewBox="0 0 440 1100" fill="none" role="img" aria-labelledby="lab-title lab-desc">
+  <title id="lab-title">Lagna — interfaces that feel alive</title>
+  <desc id="lab-desc">Three original kinetic interface studies. Visual hierarchy pairs expressive typography with an iridescent ribbon. Micro-interactions demonstrates a tactile spring toggle whose press sends out a soft orbital response. Motion systems carries one sculptural element from a compact card into an expanded detail view. These are illustrative studies, not product screenshots. A complete, still composition is shown when reduced motion is preferred.</desc>
+  <defs>
+    <linearGradient id="lab-edge" x1="0" y1="0" x2="1240" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#5A426B"/><stop offset=".5" stop-color="#292D43"/><stop offset="1" stop-color="#514264"/></linearGradient>
+    <linearGradient id="lab-spectrum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8FE2F0"/><stop offset=".34" stop-color="#AAA7FF"/><stop offset=".67" stop-color="#D8A3F0"/><stop offset="1" stop-color="#FFD0DD"/></linearGradient>
+    <linearGradient id="lab-panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#181A2C"/><stop offset="1" stop-color="#10121F"/></linearGradient>
+    <linearGradient id="lab-glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#343047"/><stop offset=".38" stop-color="#202036"/><stop offset="1" stop-color="#161827"/></linearGradient>
+    <linearGradient id="lab-ribbon" x1="-55" y1="-60" x2="60" y2="75" gradientUnits="userSpaceOnUse"><stop stop-color="#92E9E9"/><stop offset=".24" stop-color="#B3BEFF"/><stop offset=".54" stop-color="#9874DB"/><stop offset=".76" stop-color="#D9B0FA"/><stop offset="1" stop-color="#FFC6D9"/></linearGradient>
+    <linearGradient id="lab-type" x1="24" y1="60" x2="235" y2="172" gradientUnits="userSpaceOnUse"><stop stop-color="#F5F2FF"/><stop offset=".6" stop-color="#D6C5F8"/><stop offset="1" stop-color="#9CCDDC"/></linearGradient>
+    <linearGradient id="lab-knob" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".48" stop-color="#E8E3FC"/><stop offset="1" stop-color="#BEB1DA"/></linearGradient>
+    <linearGradient id="lab-track" x1="99" y1="80" x2="281" y2="155" gradientUnits="userSpaceOnUse"><stop stop-color="#737CF0"/><stop offset=".57" stop-color="#B197FA"/><stop offset="1" stop-color="#D6A8DE"/></linearGradient>
+    <radialGradient id="lab-aura"><stop stop-color="#A582F0" stop-opacity=".3"/><stop offset=".5" stop-color="#7852CB" stop-opacity=".12"/><stop offset="1" stop-color="#7852CB" stop-opacity="0"/></radialGradient>
+    <radialGradient id="lab-pearl" cx=".28" cy=".2" r=".85"><stop stop-color="#F8E8FF"/><stop offset=".25" stop-color="#C0B7F6"/><stop offset=".53" stop-color="#888FC5"/><stop offset=".73" stop-color="#655B98"/><stop offset="1" stop-color="#282645"/></radialGradient>
+    <filter id="lab-soft" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="7"/></filter>
+    <filter id="lab-shadow" x="-40%" y="-60%" width="180%" height="240%" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#03040C" flood-opacity=".55"/></filter>
+    <clipPath id="lab-frame"><rect x=".5" y=".5" width="439" height="1099" rx="28"/></clipPath>
+    <clipPath id="lab-cell"><rect width="380" height="258" rx="19"/></clipPath>
+    <path id="lab-knot" d="M-18-43C-64-43-64 15-22 20C27 26 43-28 14-42C-15-56-51-5-25 27C3 64 62 39 47 2C33-33-26-13-23 23C-19 65 39 69 47 32"/>
+  </defs>
+  <style>
+    text{font-family:Inter,"Segoe UI",Arial,sans-serif}
+    .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    .guide{animation:guide 8s ease-in-out infinite}
+    .form-type{animation:type-shift 8s cubic-bezier(.22,.75,.2,1) infinite}
+    .feeling-type{animation:type-shift 8s cubic-bezier(.22,.75,.2,1) -.22s infinite}
+    .ribbon-sculpture{animation:ribbon-turn 8s cubic-bezier(.4,0,.2,1) infinite}
+    .ribbon-glint{stroke-dasharray:20 390;animation:glint 5s linear infinite}
+    .type-underline{stroke-dasharray:150;animation:underline 8s cubic-bezier(.22,.75,.2,1) infinite}
+    .halo-response{transform-origin:190px 119px;animation:halo 7.2s ease-out infinite}
+    .halo-echo{transform-origin:190px 119px;animation:halo 7.2s .16s ease-out infinite}
+    .control-fill,.signal{animation:state-on 7.2s ease-in-out infinite}
+    .control-knob{animation:spring 7.2s linear infinite}
+    .knob-mark{transform-origin:136px 118px;animation:iris 7.2s cubic-bezier(.2,.8,.2,1) infinite}
+    .control-cursor{animation:cursor 7.2s cubic-bezier(.4,0,.2,1) infinite}
+    .press-ring{transform-origin:249px 126px;animation:press 7.2s ease-out infinite}
+    .off-word{animation:state-off 7.2s ease-in-out infinite}
+    .on-word{animation:state-on 7.2s ease-in-out infinite}
+    .morph-shell{animation:card-expand 9s cubic-bezier(.65,0,.2,1) infinite}
+    .shared-art{animation:shared-element 9s cubic-bezier(.65,0,.2,1) infinite}
+    .shared-orbit{animation:art-orbit 9s ease-in-out infinite}
+    .compact-copy{animation:compact 9s ease-in-out infinite}
+    .detail-copy{animation:detail 9s ease-in-out infinite}
+    .flow-path{stroke-dasharray:4 7;animation:flow-dash 9s linear infinite}
+    .flow-a{animation:compact 9s ease-in-out infinite}.flow-b{animation:detail 9s ease-in-out infinite}
+    .live-dot{animation:live 3s ease-in-out infinite}
+    @keyframes guide{0%,100%{opacity:.12}40%,60%{opacity:.38}}
+    @keyframes type-shift{0%,15%,90%,100%{transform:translateX(0)}40%,65%{transform:translateX(5px)}}
+    @keyframes ribbon-turn{0%,100%{transform:rotate(-12deg) scale(.93)}50%{transform:rotate(17deg) scale(1.04)}}
+    @keyframes glint{to{stroke-dashoffset:-410}}
+    @keyframes underline{0%,12%,100%{stroke-dashoffset:148;opacity:.4}42%,72%{stroke-dashoffset:0;opacity:1}91%{stroke-dashoffset:-148;opacity:.4}}
+    @keyframes halo{0%,22%,53%,100%{transform:scale(.69);opacity:0}24%{transform:scale(.69);opacity:.75}48%{transform:scale(1.18);opacity:0}}
+    @keyframes state-on{0%,22%,84%,100%{opacity:0}31%,74%{opacity:1}}
+    @keyframes state-off{0%,22%,85%,100%{opacity:1}31%,74%{opacity:0}}
+    @keyframes spring{0%,23%,86%,100%{transform:translateX(0)}28%{transform:translateX(114px)}31%{transform:translateX(104px)}34%,74%{transform:translateX(108px)}79%{transform:translateX(-5px)}82%{transform:translateX(2px)}}
+    @keyframes iris{0%,23%,85%,100%{transform:rotate(0)}36%,73%{transform:rotate(90deg)}}
+    @keyframes cursor{0%,10%,89%,100%{transform:translate(35px,28px);opacity:0}19%,22%{transform:translate(0,0);opacity:1}24%{transform:translate(0,3px);opacity:1}32%,68%{transform:translate(17px,18px);opacity:0}74%,77%{transform:translate(0,0);opacity:1}79%{transform:translate(0,3px);opacity:1}86%{transform:translate(25px,20px);opacity:0}}
+    @keyframes press{0%,21%,34%,100%{transform:scale(.3);opacity:0}22%{transform:scale(.3);opacity:.8}33%{transform:scale(2);opacity:0}}
+    @keyframes card-expand{0%,17%,91%,100%{transform:translate(31px,58px) scale(.44375,1)}42%,71%{transform:translate(30px,58px) scale(1,1)}}
+    @keyframes shared-element{0%,17%,91%,100%{transform:translate(102px,124px) scale(.68)}42%,71%{transform:translate(281px,141px) scale(.97)}}
+    @keyframes art-orbit{0%,17%,91%,100%{transform:rotate(-25deg)}42%,71%{transform:rotate(30deg)}}
+    @keyframes compact{0%,18%,92%,100%{opacity:1}28%,80%{opacity:0}}
+    @keyframes detail{0%,28%,80%,100%{opacity:0;transform:translateX(-7px)}44%,70%{opacity:1;transform:translateX(0)}}
+    @keyframes flow-dash{to{stroke-dashoffset:-110}}
+    @keyframes live{0%,100%{opacity:.4}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}.guide{opacity:.2}.ribbon-sculpture{transform:rotate(-6deg)}.ribbon-glint{stroke-dashoffset:-50}.type-underline{stroke-dashoffset:0}.control-fill,.signal,.on-word{opacity:1}.control-knob{transform:translateX(108px)}.knob-mark{transform:rotate(90deg)}.off-word,.control-cursor,.press-ring,.halo-response,.halo-echo,.compact-copy,.flow-a{opacity:0}.morph-shell{transform:translate(30px,58px) scale(1,1)}.shared-art{transform:translate(281px,141px) scale(.97)}.shared-orbit{transform:rotate(30deg)}.detail-copy,.flow-b{opacity:1;transform:none}}
+  </style>
+  <g clip-path="url(#lab-frame)">
+    <rect width="440" height="1100" fill="#0B0D19"/>
+    <ellipse cx="1127" cy="21" rx="288" ry="145" fill="url(#lab-aura)" opacity=".4"/>
+    <text x="30" y="40" class="mono" fill="#AA9FBE" font-size="12" letter-spacing="2.3">UI / INTERACTION / MOTION</text>
+    <text x="30" y="93" fill="#F2EFFA" font-size="28" font-weight="600" letter-spacing="-.8">Interfaces that <tspan fill="url(#lab-spectrum)">feel alive.</tspan></text>
+    
+
+    <!-- 01 / Type, space and a continuous sculptural ribbon. -->
+    <g transform="translate(30 142)">
+      <g clip-path="url(#lab-cell)">
+        <rect width="380" height="258" rx="19" fill="url(#lab-panel)"/>
+        <g class="guide" stroke="#B5A0D9" stroke-width=".7" stroke-dasharray="2 6"><path d="M25 0V258M245 0V258M355 0V258M0 63H380M0 177H380M0 223H380"/></g>
+        <text x="25" y="32" fill="#ADA1C4" font-size="11" letter-spacing="1.7" class="mono">FORM / 001</text>
+        <path d="M328 25H354M341 18V32" stroke="#B6A2D4" stroke-width="1.2"/>
+        <text class="form-type" x="22" y="106" fill="#F6F2FD" font-size="57" font-weight="650" letter-spacing="-2.8">Form.</text>
+        <text class="feeling-type" x="22" y="162" fill="url(#lab-type)" font-size="52" font-weight="650" letter-spacing="-2.8">Feeling.</text>
+        <path class="type-underline" d="M27 180C77 182 111 170 178 176" stroke="url(#lab-spectrum)" stroke-width="2.3" stroke-linecap="round"/>
+        <g transform="translate(301 121)">
+          <ellipse rx="82" ry="98" fill="url(#lab-aura)"/>
+          <g class="ribbon-sculpture">
+            <use href="#lab-knot" stroke="#A17BDD" stroke-width="17" stroke-linecap="round" opacity=".25" filter="url(#lab-soft)"/>
+            <use href="#lab-knot" stroke="#302B48" stroke-width="15" stroke-linecap="round"/>
+            <use href="#lab-knot" stroke="url(#lab-ribbon)" stroke-width="11" stroke-linecap="round"/>
+            <use href="#lab-knot" transform="translate(-1 -2)" stroke="#F4E4FF" stroke-width="1.1" stroke-linecap="round" opacity=".47"/>
+            <use class="ribbon-glint" href="#lab-knot" stroke="#FFFFFF" stroke-width="2.1" stroke-linecap="round" opacity=".9"/>
+          </g>
+        </g>
+        <path d="M25 212H355" stroke="#353044"/>
+        <circle cx="30" cy="234" r="4" fill="url(#lab-spectrum)"/>
+        <text x="44" y="238" class="mono" fill="#B6AACB" font-size="10.5" letter-spacing="1.1">DESIGNED TO RESONATE</text>
+        <path d="M338 240L352 226M340 226H352V238" stroke="#D2BDEA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <rect x=".5" y=".5" width="379" height="257" rx="18.5" stroke="#40364F"/>
+    </g>
+
+    <!-- 02 / An intentional press, spring overshoot and an orbital reaction. -->
+    <g transform="translate(30 452)">
+      <g clip-path="url(#lab-cell)">
+        <rect width="380" height="258" rx="19" fill="url(#lab-panel)"/>
+        <text x="25" y="32" fill="#ADA1C4" font-size="11" letter-spacing="1.7" class="mono">DETAIL / 002</text>
+        <circle cx="350" cy="27" r="4" fill="#655376"/><circle class="signal" cx="350" cy="27" r="4" fill="#C9B3F7"/>
+        <ellipse cx="190" cy="119" rx="160" ry="91" fill="url(#lab-aura)"/>
+        <ellipse cx="190" cy="119" rx="145" ry="61" stroke="#77608F" stroke-opacity=".2" stroke-dasharray="2 7"/>
+        <ellipse class="halo-response" cx="190" cy="119" rx="134" ry="56" stroke="url(#lab-spectrum)" stroke-width="1.2" opacity="0"/>
+        <ellipse class="halo-echo" cx="190" cy="119" rx="134" ry="56" stroke="url(#lab-spectrum)" stroke-width=".8" opacity="0"/>
+        <path d="M41 119H77M303 119H339" stroke="#655274" stroke-width="1.1"/>
+        <circle cx="43" cy="119" r="3" fill="#66517F"/><circle cx="337" cy="119" r="3" fill="#66517F"/>
+        <g class="signal"><circle cx="43" cy="119" r="3" fill="#A6DCEA"/><circle cx="337" cy="119" r="3" fill="#DABBF5"/></g>
+        <rect x="95" y="76" width="190" height="86" rx="43" stroke="#A18CBD" stroke-opacity=".2"/>
+        <rect x="100" y="81" width="180" height="76" rx="38" fill="#272637" stroke="#766382" stroke-opacity=".65" filter="url(#lab-shadow)"/>
+        <rect class="control-fill" x="100" y="81" width="180" height="76" rx="38" fill="url(#lab-track)"/>
+        <rect x="101" y="82" width="178" height="74" rx="37" stroke="#F4E9FF" stroke-opacity=".17"/>
+        <path d="M136 112V124M130 118H142" stroke="#F7F1FF" stroke-width="1.8" stroke-linecap="round" opacity=".7"/>
+        <circle cx="244" cy="118" r="7" stroke="#EBDCFB" stroke-width="1.6" opacity=".5"/>
+        <g class="control-knob">
+          <circle cx="136" cy="121" r="30" fill="#31233F" opacity=".35"/>
+          <circle cx="136" cy="118" r="30" fill="url(#lab-knob)"/>
+          <circle cx="136" cy="118" r="29.5" stroke="#FFFFFF" stroke-opacity=".7"/>
+          <g class="knob-mark" stroke="#83729E" stroke-width="1.5" stroke-linecap="round"><path d="M136 108V128M126 118H146M129 111L143 125M129 125L143 111"/><circle cx="136" cy="118" r="4" fill="#E5DFF5" stroke="none"/></g>
+        </g>
+        <circle class="press-ring" cx="249" cy="126" r="15" stroke="#F2D8FF" stroke-width="1.3" opacity="0"/>
+        <g class="control-cursor"><path d="M249 126L250 150L256 144L262 155L267 152L261 141L269 140Z" fill="#F9F2FF" stroke="#211C34" stroke-width="1.4" stroke-linejoin="round"/></g>
+        <text class="off-word" x="190" y="197" text-anchor="middle" fill="#B4A7C7" font-size="18" font-weight="500" letter-spacing="2.2">A MOMENT OF CALM.</text>
+        <text class="on-word" x="190" y="197" text-anchor="middle" fill="#E6D6FA" font-size="18" font-weight="500" letter-spacing="2.2">A LITTLE MORE ALIVE.</text>
+        <path d="M25 212H355" stroke="#353044"/>
+        <text x="25" y="238" class="mono" fill="#B6AACB" font-size="10.5" letter-spacing="1.1">PRESS. RESPOND. SETTLE.</text>
+        <path d="M313 236H323L327 229L332 242L337 232L341 236H355" stroke="url(#lab-spectrum)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <rect x=".5" y=".5" width="379" height="257" rx="18.5" stroke="#40364F"/>
+    </g>
+
+    <!-- 03 / One persistent object connects two layouts through a shared element. -->
+    <g transform="translate(30 762)">
+      <g clip-path="url(#lab-cell)">
+        <rect width="380" height="258" rx="19" fill="url(#lab-panel)"/>
+        <text x="25" y="32" fill="#ADA1C4" font-size="11" letter-spacing="1.7" class="mono">FLOW / 003</text>
+        <path d="M327 25H349M344 20L349 25L344 30" stroke="#BCA5D8" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+        <ellipse cx="251" cy="128" rx="153" ry="96" fill="url(#lab-aura)" opacity=".7"/>
+        <path class="flow-path" d="M121 119C186 64 221 205 289 136" stroke="#8C719F" stroke-opacity=".35" stroke-width="1.1"/>
+        <rect x="31" y="58" width="319" height="153" rx="18" stroke="#7D668D" stroke-opacity=".2" stroke-dasharray="3 7"/>
+        <g class="morph-shell" filter="url(#lab-shadow)"><rect width="320" height="153" rx="18" fill="url(#lab-glass)"/><rect x=".5" y=".5" width="319" height="152" rx="17.5" stroke="#AA8EC0" stroke-opacity=".57" vector-effect="non-scaling-stroke"/></g>
+        <g class="compact-copy"><text x="50" y="188" fill="#F0E6FC" font-size="17" font-weight="600">Explore</text><path d="M137 188L149 176M139 176H149V186" stroke="#E0C5FA" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+        <g class="detail-copy">
+          <text x="51" y="93" class="mono" fill="#B3A5C7" font-size="9.5" letter-spacing="1.5">SAME IDEA. NEW SPACE.</text>
+          <text x="50" y="123" fill="#F4EBFE" font-size="25" font-weight="600" letter-spacing="-.8">One idea.</text>
+          <text x="50" y="149" fill="#CCB7E9" font-size="23" font-weight="500" letter-spacing="-.7">New context.</text>
+          <rect x="51" y="168" width="118" height="25" rx="12.5" fill="#DBCAF0"/><text x="66" y="185" fill="#352842" font-size="11" font-weight="600">Follow the detail</text>
+        </g>
+        <g class="shared-art">
+          <circle r="62" fill="url(#lab-aura)"/>
+          <circle r="42" fill="url(#lab-pearl)"/>
+          <circle r="41.5" stroke="#E1C8FB" stroke-opacity=".4"/>
+          <path d="M-30-25C-7-50 23-28 30-2C40 31 3 48-19 26C-35 10-12-12 11-4" stroke="#EFE0FF" stroke-opacity=".37" stroke-width="1.2"/>
+          <path d="M-35-13C-16-40 20-22 25 4C29 31-9 36-21 12" stroke="#BBDDE7" stroke-opacity=".55" stroke-width="1.2"/>
+          <g class="shared-orbit"><ellipse rx="55" ry="18" transform="rotate(-28)" stroke="url(#lab-spectrum)" stroke-width="2.8"/><ellipse rx="55" ry="18" transform="rotate(-28)" stroke="#F6E4FF" stroke-width=".65"/><circle cx="47" cy="-26" r="3.2" fill="#F8DFF4"/></g>
+          <path d="M-15-32C-3-38 9-36 18-30" stroke="#FFF0FF" stroke-width="2.3" stroke-linecap="round" opacity=".65"/>
+        </g>
+        <text x="25" y="238" class="mono" fill="#B6AACB" font-size="10.5" letter-spacing="1.1">CONTINUITY, NOT A CUT.</text>
+        <circle cx="325" cy="234" r="3" fill="#443A53"/><circle cx="348" cy="234" r="3" fill="#443A53"/><path d="M332 234H341" stroke="#665475"/>
+        <circle class="flow-a" cx="325" cy="234" r="3" fill="#C9B3F0"/><circle class="flow-b" cx="348" cy="234" r="3" fill="#B6DAED"/>
+      </g>
+      <rect x=".5" y=".5" width="379" height="257" rx="18.5" stroke="#40364F"/>
+    </g>
+
+    <text x="30" y="428" fill="#F0EAF8" font-size="17" font-weight="500">Visual hierarchy</text><text x="410" y="428" text-anchor="end" class="mono" fill="#9380AB" font-size="11">01</text>
+    <text x="30" y="738" fill="#F0EAF8" font-size="17" font-weight="500">Micro-interactions</text><text x="410" y="738" text-anchor="end" class="mono" fill="#9380AB" font-size="11">02</text>
+    <text x="30" y="1048" fill="#F0EAF8" font-size="17" font-weight="500">Motion systems</text><text x="410" y="1048" text-anchor="end" class="mono" fill="#9380AB" font-size="11">03</text>
+  </g>
+  <rect x=".5" y=".5" width="439" height="1099" rx="27.5" stroke="url(#lab-edge)"/>
+</svg>

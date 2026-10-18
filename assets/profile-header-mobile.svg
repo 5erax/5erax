@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Astraa - Fullstack developer</title>
+  <desc id="desc">A violet aurora drifts behind the Lagna signature. Luminous orbital trails circle a dark sphere while a soft light sweeps across the lettering.</desc>
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1280" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B18"/><stop offset=".55" stop-color="#100D23"/><stop offset="1" stop-color="#080C1B"/>
+    </linearGradient>
+    <radialGradient id="nebula">
+      <stop stop-color="#8050DE" stop-opacity=".22"/><stop offset=".58" stop-color="#7B39BB" stop-opacity=".09"/><stop offset="1" stop-color="#080B18" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="aurora" x1="240" y1="410" x2="1190" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#53D5E8" stop-opacity="0"/><stop offset=".32" stop-color="#8875FF"/><stop offset=".64" stop-color="#CA70EF"/><stop offset=".85" stop-color="#EF99C4"/><stop offset="1" stop-color="#EF99C4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="signature" x1="76" y1="125" x2="550" y2="265" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F5FF"/><stop class="violet-stop" offset=".48" stop-color="#D0B5FF"/><stop class="rose-stop" offset=".8" stop-color="#F2BEDD"/><stop offset="1" stop-color="#9ADDEA"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="-146" y1="-140" x2="142" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#80E5F0"/><stop offset=".32" stop-color="#B89CFF"/><stop offset=".67" stop-color="#E899D7"/><stop offset="1" stop-color="#7289FF"/>
+    </linearGradient>
+    <radialGradient id="planet" cx=".32" cy=".23" r=".85">
+      <stop stop-color="#292147"/><stop offset=".5" stop-color="#15132F"/><stop offset="1" stop-color="#090E1B"/>
+    </radialGradient>
+    <radialGradient id="atmosphere">
+      <stop offset=".54" stop-color="#9B77FF" stop-opacity="0"/><stop offset=".68" stop-color="#B484FF" stop-opacity=".19"/><stop offset=".83" stop-color="#BA73D7" stop-opacity=".06"/><stop offset="1" stop-color="#7D79DF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit" x1="-221" y1="0" x2="221" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ADCEA" stop-opacity=".1"/><stop offset=".26" stop-color="#AB8EFF"/><stop offset=".62" stop-color="#F0B0DB"/><stop offset="1" stop-color="#83DDEB" stop-opacity=".16"/>
+    </linearGradient>
+    <linearGradient id="sweep">
+      <stop stop-color="#FFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFF" stop-opacity=".75"/><stop offset="1" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1280" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75CFDC" stop-opacity=".2"/><stop offset=".4" stop-color="#BD9AF1" stop-opacity=".5"/><stop offset=".7" stop-color="#D498C0" stop-opacity=".2"/><stop offset="1" stop-color="#7C8DE8" stop-opacity=".3"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="64" y1="0" x2="1216" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AA8FF1" stop-opacity="0"/><stop offset=".34" stop-color="#AA8FF1" stop-opacity=".5"/><stop offset=".65" stop-color="#D69DD8" stop-opacity=".45"/><stop offset="1" stop-color="#7ED8E5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="prism" x1="-230" y1="0" x2="230" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9AE8F2" stop-opacity=".05"/><stop offset=".22" stop-color="#83DAEB" stop-opacity=".68"/><stop offset=".48" stop-color="#C8A2FF"/><stop offset=".7" stop-color="#F4B6DB" stop-opacity=".72"/><stop offset="1" stop-color="#D6A1F6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="lens-light" x1="-150" y1="-125" x2="135" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8C3FF" stop-opacity="0"/><stop offset=".4" stop-color="#B3DFFF" stop-opacity=".1"/><stop offset=".49" stop-color="#EFD5FF" stop-opacity=".48"/><stop offset=".52" stop-color="#FBD5E9" stop-opacity=".12"/><stop offset=".62" stop-color="#96C9F5" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="mist" x="-40%" y="-120%" width="180%" height="340%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="halo" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="11"/>
+    </filter>
+    <clipPath id="frame"><rect x="1" y="1" width="1278" height="478" rx="28"/></clipPath>
+    <clipPath id="sphere"><circle r="127"/></clipPath>
+    <clipPath id="lettering">
+      <text x="69" y="251" font-family="'Segoe UI',Arial,sans-serif" font-weight="750" font-size="146" letter-spacing="-8">Astraa</text>
+    </clipPath>
+    <style>
+      .spectral-ring { animation: spectral-tilt 18s ease-in-out infinite; }
+      .lens-caustic { animation: lens-crossing 16s ease-in-out infinite; }
+      .meridians { animation: meridian-turn 24s ease-in-out infinite; transform-origin: 0 0; }
+      .border-ray { animation: border-ray 24s linear infinite; }
+      .horizon-ray { animation: horizon-ray 11s ease-in-out infinite; }
+      .chromatic-edge { animation: chromatic-edge 12s ease-in-out infinite; }
+      @keyframes spectral-tilt { 0%,100% { transform: rotate(-3deg); opacity: .38; } 50% { transform: rotate(4deg); opacity: .72; } }
+      @keyframes lens-crossing { 0%,20%,100% { transform: translateX(-165px); opacity: 0; } 36%,61% { opacity: .62; } 76% { transform: translateX(165px); opacity: 0; } }
+      @keyframes meridian-turn { 0%,100% { transform: scaleX(1); opacity: .42; } 50% { transform: scaleX(.68); opacity: .6; } }
+      @keyframes border-ray { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -1000; } }
+      @keyframes horizon-ray { 0%,12% { stroke-dashoffset: 1000; opacity: 0; } 25%,70% { opacity: .8; } 88%,100% { stroke-dashoffset: 0; opacity: 0; } }
+      @keyframes chromatic-edge { 0%,100% { transform: translateX(0); opacity: .6; } 50% { transform: translateX(1.5px); opacity: 1; } }
+      .aurora-a { animation: drift-a 17s ease-in-out infinite alternate; }
+      .aurora-b { animation: drift-b 21s ease-in-out infinite alternate; }
+      .dust { animation: dust-drift 22s ease-in-out infinite alternate; }
+      .star { animation: breathe 7s ease-in-out infinite; }
+      .star-b { animation-delay: -3s; animation-duration: 9s; }
+      .star-c { animation-delay: -5s; animation-duration: 11s; }
+      .float { animation: float 12s ease-in-out infinite; }
+      .turn { animation: turn 38s linear infinite; }
+      .counterturn { animation: turn 52s linear infinite reverse; }
+      .trail { animation: trail 13s linear infinite; }
+      .trail-b { animation: trail 19s linear infinite reverse; }
+      .pulse { animation: atmosphere 8s ease-in-out infinite; }
+      .shimmer { animation: shimmer 10s ease-in-out infinite; }
+      .violet-stop { animation: violet 12s ease-in-out infinite; }
+      .rose-stop { animation: rose 12s ease-in-out infinite; }
+      .meteor { animation: meteor 16s linear infinite; opacity: 0; }
+      .meteor-b { animation-delay: -8s; }
+      .ticker-one { animation: ticker-one 15s ease-in-out infinite; }
+      .ticker-two { animation: ticker-two 15s ease-in-out infinite; opacity: 0; }
+      .ticker-three { animation: ticker-three 15s ease-in-out infinite; opacity: 0; }
+      @keyframes drift-a { from { transform: translate(-18px,14px) rotate(-2deg); opacity: .43; } to { transform: translate(30px,-16px) rotate(2deg); opacity: .76; } }
+      @keyframes drift-b { from { transform: translate(24px,-12px); opacity: .22; } to { transform: translate(-28px,14px); opacity: .5; } }
+      @keyframes dust-drift { from { transform: translateY(6px); } to { transform: translateY(-12px); } }
+      @keyframes breathe { 0%,100% { opacity: .28; } 50% { opacity: .85; } }
+      @keyframes float { 0%,100% { transform: translateY(5px); } 50% { transform: translateY(-7px); } }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes trail { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -1000; } }
+      @keyframes atmosphere { 0%,100% { opacity: .55; } 50% { opacity: .95; } }
+      @keyframes shimmer { 0%,16% { transform: translateX(-650px); } 52%,100% { transform: translateX(680px); } }
+      @keyframes violet { 0%,100% { stop-color: #D0B5FF; } 50% { stop-color: #ADDFED; } }
+      @keyframes rose { 0%,100% { stop-color: #F2BEDD; } 50% { stop-color: #C5AAFF; } }
+      @keyframes meteor { 0%,70% { transform: translate(0,0); opacity: 0; } 73% { opacity: .55; } 82%,100% { transform: translate(-225px,114px); opacity: 0; } }
+      @keyframes ticker-one { 0%,27%,100% { opacity: 1; transform: translateY(0); } 32%,94% { opacity: 0; transform: translateY(-6px); } }
+      @keyframes ticker-two { 0%,28%,65%,100% { opacity: 0; transform: translateY(6px); } 34%,60% { opacity: 1; transform: translateY(0); } }
+      @keyframes ticker-three { 0%,61%,98%,100% { opacity: 0; transform: translateY(6px); } 67%,93% { opacity: 1; transform: translateY(0); } }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+        .shimmer, .meteor, .ticker-two, .ticker-three { display: none; }
+        .ticker-one { opacity: 1; }
+      }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="480" fill="url(#space)"/>
+    <ellipse cx="965" cy="236" rx="440" ry="345" fill="url(#nebula)"/>
+    <g filter="url(#mist)">
+      <path class="aurora-a" d="M290 472C455 313 533 399 721 267S1002 53 1324 116" stroke="url(#aurora)" stroke-width="46" opacity=".6"/>
+      <path class="aurora-b" d="M342 439C566 472 601 234 817 225S1090 449 1341 299" stroke="url(#aurora)" stroke-width="34" opacity=".3"/>
+    </g>
+    <path class="aurora-a" d="M464 450C661 402 664 270 842 251S1116 362 1295 207" stroke="url(#aurora)" stroke-width="1.1" opacity=".35"/>
+    <path class="aurora-b" d="M570 451C701 408 730 318 895 331S1145 404 1320 274" stroke="url(#aurora)" stroke-width=".75" opacity=".25"/>
+    <g class="dust" fill="#D6C5FF">
+      <circle cx="99" cy="107" r="1.1" opacity=".4"/><circle cx="282" cy="52" r="1.3" opacity=".5"/>
+      <circle cx="486" cy="117" r="1.2" opacity=".4"/><circle cx="568" cy="74" r="1.1" opacity=".35"/>
+      <circle cx="696" cy="135" r="1.8" opacity=".55"/><circle cx="754" cy="62" r="1" opacity=".3"/>
+      <circle cx="1145" cy="90" r="1.5" opacity=".6"/><circle cx="1211" cy="188" r="1.1" opacity=".4"/>
+      <circle cx="1170" cy="382" r="1.6" opacity=".5"/><circle cx="748" cy="375" r="1.2" opacity=".4"/>
+      <circle cx="555" cy="390" r="1.4" opacity=".35"/><circle cx="384" cy="362" r="1" opacity=".4"/>
+      <circle cx="88" cy="350" r="1.2" opacity=".3"/><circle cx="1065" cy="45" r="1" opacity=".3"/>
+      <circle cx="1229" cy="305" r="1.2" opacity=".3"/><circle cx="801" cy="440" r="1" opacity=".35"/>
+    </g>
+    <g class="star" filter="url(#glow)" stroke="#B2DDEA" stroke-linecap="round">
+      <path d="M648 67V77M643 72H653"/><circle cx="648" cy="72" r="1" fill="#E6E2FF"/>
+    </g>
+    <g class="star star-b" filter="url(#glow)" stroke="#D5B7F2" stroke-linecap="round">
+      <path d="M1186 133V145M1180 139H1192"/><circle cx="1186" cy="139" r="1.2" fill="#F5DEFF"/>
+    </g>
+    <g class="star star-c" filter="url(#glow)" stroke="#D5B7F2" stroke-linecap="round">
+      <path d="M710 318V326M706 322H714"/>
+    </g>
+    <path class="meteor" d="M886 50L955 15" stroke="url(#aurora)" stroke-width="1.4" stroke-linecap="round"/>
+    <path class="meteor meteor-b" d="M650 147L716 113" stroke="url(#aurora)" stroke-width="1" stroke-linecap="round"/>
+    <g transform="translate(956 236)">
+      <g class="float">
+        <circle class="pulse" r="201" fill="url(#atmosphere)"/>
+        <g transform="rotate(-24)">
+          <ellipse rx="229" ry="88" stroke="url(#orbit)" stroke-width=".8" opacity=".42"/>
+          <ellipse class="trail" rx="229" ry="88" pathLength="1000" stroke="#BBABF6" stroke-width="2.3" stroke-dasharray="35 965" stroke-dashoffset="80" stroke-linecap="round" filter="url(#glow)" opacity=".8"/>
+        </g>
+        <g class="spectral-ring"><g transform="rotate(-24)">
+          <ellipse rx="204" ry="59" stroke="url(#prism)" stroke-width=".9" opacity="0.22"/>
+          <ellipse rx="205.15" ry="59.85" stroke="url(#prism)" stroke-width=".5" opacity="0.29"/>
+          <ellipse rx="206.3" ry="60.7" stroke="url(#prism)" stroke-width=".5" opacity="0.36"/>
+          <ellipse rx="207.45" ry="61.55" stroke="url(#prism)" stroke-width=".5" opacity="0.42"/>
+          <ellipse rx="208.6" ry="62.4" stroke="url(#prism)" stroke-width=".9" opacity="0.48"/>
+          <ellipse rx="209.75" ry="63.25" stroke="url(#prism)" stroke-width=".5" opacity="0.53"/>
+          <ellipse rx="210.9" ry="64.1" stroke="url(#prism)" stroke-width=".5" opacity="0.57"/>
+          <ellipse rx="212.05" ry="64.95" stroke="url(#prism)" stroke-width=".5" opacity="0.60"/>
+          <ellipse rx="213.2" ry="65.8" stroke="url(#prism)" stroke-width=".9" opacity="0.63"/>
+          <ellipse rx="214.35" ry="66.65" stroke="url(#prism)" stroke-width=".5" opacity="0.64"/>
+          <ellipse rx="215.5" ry="67.5" stroke="url(#prism)" stroke-width=".5" opacity="0.64"/>
+          <ellipse rx="216.65" ry="68.35" stroke="url(#prism)" stroke-width=".5" opacity="0.63"/>
+          <ellipse rx="217.8" ry="69.2" stroke="url(#prism)" stroke-width=".9" opacity="0.60"/>
+          <ellipse rx="218.95" ry="70.05" stroke="url(#prism)" stroke-width=".5" opacity="0.57"/>
+          <ellipse rx="220.1" ry="70.9" stroke="url(#prism)" stroke-width=".5" opacity="0.53"/>
+          <ellipse rx="221.25" ry="71.75" stroke="url(#prism)" stroke-width=".5" opacity="0.48"/>
+          <ellipse rx="222.4" ry="72.6" stroke="url(#prism)" stroke-width=".9" opacity="0.42"/>
+          <ellipse rx="223.55" ry="73.45" stroke="url(#prism)" stroke-width=".5" opacity="0.36"/>
+          <ellipse rx="224.7" ry="74.3" stroke="url(#prism)" stroke-width=".5" opacity="0.29"/>
+          <ellipse rx="225.85" ry="75.15" stroke="url(#prism)" stroke-width=".5" opacity="0.22"/>
+        </g></g>
+        <circle r="128" stroke="url(#rim)" stroke-width="12" opacity=".25" filter="url(#halo)"/>
+        <circle r="127" fill="url(#planet)" stroke="url(#rim)" stroke-width="1.6"/>
+        <g clip-path="url(#sphere)">
+          <g transform="rotate(-25)"><g class="meridians" opacity=".4" stroke="url(#rim)" stroke-width=".65">
+            <ellipse rx="108" ry="127"/><ellipse rx="71" ry="127"/><ellipse rx="32" ry="127"/>
+            <ellipse rx="127" ry="102"/><ellipse rx="127" ry="59"/><ellipse rx="127" ry="18"/>
+          </g></g>
+          <rect class="lens-caustic" x="-180" y="-150" width="360" height="300" fill="url(#lens-light)" transform="rotate(-16)"/>
+          <path d="M-160 40C-95-77 26-143 130-92" stroke="#C3AEF4" stroke-width="42" opacity=".09" filter="url(#halo)"/>
+          <path d="M-121 48C-63-6 57-76 123-66" stroke="url(#rim)" stroke-width=".8" opacity=".5"/>
+          <circle cx="-47" cy="-52" r="65" fill="url(#nebula)" opacity=".65"/>
+        </g>
+        <g class="turn">
+          <circle r="145" stroke="url(#rim)" stroke-width="1" stroke-dasharray="88 27 3 26 170 32 3 45 76 442" opacity=".6"/>
+          <circle cx="145" r="3" fill="#C8B5FF" filter="url(#glow)"/>
+        </g>
+        <g class="counterturn">
+          <circle r="167" stroke="#9B8AC8" stroke-width=".7" stroke-dasharray="1 15" opacity=".45"/>
+          <path d="M-166 0A166 166 0 0 1-111-123" stroke="url(#rim)" stroke-width="1.8" opacity=".7"/>
+          <circle cx="-166" r="2.2" fill="#98DFEA" filter="url(#glow)"/>
+        </g>
+        <g transform="rotate(-24)">
+          <path d="M-229 0A229 88 0 0 0 229 0" stroke="url(#orbit)" stroke-width="1.3" opacity=".9"/>
+          <ellipse class="trail trail-b" rx="229" ry="88" pathLength="1000" stroke="#EABADB" stroke-width="2.1" stroke-dasharray="3 997" stroke-dashoffset="-450" stroke-linecap="round" filter="url(#glow)"/>
+        </g>
+        <g class="spectral-ring"><g transform="rotate(-24)">
+          <path d="M-209 0A209 61 0 0 0 209 0" stroke="url(#prism)" stroke-width=".55" opacity="0.25"/>
+          <path d="M-210.25 0A210.25 61.9 0 0 0 210.25 0" stroke="url(#prism)" stroke-width=".55" opacity="0.36"/>
+          <path d="M-211.5 0A211.5 62.8 0 0 0 211.5 0" stroke="url(#prism)" stroke-width=".55" opacity="0.46"/>
+          <path d="M-212.75 0A212.75 63.7 0 0 0 212.75 0" stroke="url(#prism)" stroke-width=".55" opacity="0.55"/>
+          <path d="M-214 0A214 64.6 0 0 0 214 0" stroke="url(#prism)" stroke-width=".55" opacity="0.61"/>
+          <path d="M-215.25 0A215.25 65.5 0 0 0 215.25 0" stroke="url(#prism)" stroke-width=".55" opacity="0.66"/>
+          <path d="M-216.5 0A216.5 66.4 0 0 0 216.5 0" stroke="url(#prism)" stroke-width=".55" opacity="0.67"/>
+          <path d="M-217.75 0A217.75 67.3 0 0 0 217.75 0" stroke="url(#prism)" stroke-width=".55" opacity="0.66"/>
+          <path d="M-219 0A219 68.2 0 0 0 219 0" stroke="url(#prism)" stroke-width=".55" opacity="0.61"/>
+          <path d="M-220.25 0A220.25 69.1 0 0 0 220.25 0" stroke="url(#prism)" stroke-width=".55" opacity="0.55"/>
+          <path d="M-221.5 0A221.5 70 0 0 0 221.5 0" stroke="url(#prism)" stroke-width=".55" opacity="0.46"/>
+          <path d="M-222.75 0A222.75 70.9 0 0 0 222.75 0" stroke="url(#prism)" stroke-width=".55" opacity="0.36"/>
+          <path d="M-224 0A224 71.8 0 0 0 224 0" stroke="url(#prism)" stroke-width=".55" opacity="0.25"/>
+        </g></g>
+        <g transform="rotate(58)">
+          <ellipse rx="189" ry="55" stroke="url(#orbit)" stroke-width=".65" opacity=".45"/>
+          <ellipse class="trail" rx="189" ry="55" pathLength="1000" stroke="#B2DDE9" stroke-width="1.6" stroke-dasharray="22 978" stroke-dashoffset="-560" stroke-linecap="round" opacity=".65"/>
+        </g>
+      </g>
+    </g>
+    <g font-family="'Segoe UI',Arial,sans-serif">
+      <text x="76" y="81" fill="#C1A9E4" font-size="16" font-weight="600" letter-spacing="5">5ERAX / DIGITAL ORBIT</text>
+      <text class="chromatic-edge" x="72" y="255" fill="none" stroke="#A68CE8" stroke-opacity=".16" stroke-width="1" font-size="146" font-weight="750" letter-spacing="-8">Astraa</text>
+      <text x="69" y="251" fill="url(#signature)" font-size="146" font-weight="750" letter-spacing="-8">Astraa</text>
+      <g clip-path="url(#lettering)">
+        <path class="shimmer" d="M20 100H145L225 292H100Z" fill="url(#sweep)"/>
+      </g>
+      <text x="78" y="304" fill="#E3D9F3" font-size="22" font-weight="400" letter-spacing="1.5">FULLSTACK DEVELOPER / UI &amp; MOTION</text>
+      <g fill="#A99BBC" font-size="20" letter-spacing=".4">
+        <text class="ticker-one" x="79" y="350">Expressive interfaces. Thoughtful motion.</text>
+        <text class="ticker-two" x="79" y="350">From the first pixel to the final endpoint.</text>
+        <text class="ticker-three" x="79" y="350">Building worlds, interfaces and systems.</text>
+      </g>
+      <path d="M65 407H1215" stroke="url(#horizon)" stroke-width=".8"/>
+      <path class="horizon-ray" d="M65 407H1215" pathLength="1000" stroke="url(#horizon)" stroke-width="1.5" stroke-dasharray="70 930" stroke-linecap="round"/>
+      <circle cx="82" cy="440" r="3.5" fill="#A8D6C9"/>
+      <circle class="pulse" cx="82" cy="440" r="7" stroke="#A8D6C9" stroke-opacity=".24"/>
+      <text x="99" y="446" fill="#B9AFCA" font-size="15" letter-spacing="1.8">OPEN TO WORK</text>
+      <text x="1200" y="446" fill="#9D93B2" font-size="15" text-anchor="end" letter-spacing="2">VIETNAM / UTC+7</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1278" height="478" rx="28" stroke="url(#edge)"/>
+  <rect class="border-ray" x="1" y="1" width="1278" height="478" rx="28" pathLength="1000" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="85 915" opacity=".65"/>
+</svg>

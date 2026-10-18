@@ -1,93 +1,97 @@
-<p>
-  <img src="./assets/profile-header.svg?v=astraa-oct26" alt="Astraa, fullstack developer focused on expressive interfaces and motion." width="100%" />
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg?v=readable" />
+  <img src="./assets/profile-header.svg?v=astraa-oct26" alt="Astraa, fullstack developer focused on UI and motion" width="100%" />
+</picture>
 
-<h1>Interfaces with character. Software with depth.</h1>
+# Fullstack developer. UI & motion.
 
-I'm **Astraa**, a fullstack developer in Vietnam. I build interactive websites, web apps and browser games, with a particular focus on **UI, motion and the engineering underneath**.
+I'm **Astraa**, based in Vietnam. I build expressive interfaces and the components, APIs and systems behind them.
 
-<p>
-  <a href="https://astraa1.vercel.app"><img src="./assets/link-portfolio.svg?v=astraa-oct26" alt="Explore my portfolio" width="220" /></a>
-  <a href="mailto:lagna0175@gmail.com"><img src="./assets/link-email.svg?v=prismatic" alt="Email Astraa" width="220" /></a>
-</p>
+**[Explore my portfolio ↗](https://astraa1.vercel.app)** &nbsp; · &nbsp; **[Get in touch](mailto:lagna0175@gmail.com)**
 
 [Selected work](#selected-work) &nbsp; / &nbsp; [Interface lab](#interface-lab) &nbsp; / &nbsp; [Behind the interface](#behind-the-interface)
 
-<p><img src="./assets/profile-divider.svg?v=prismatic" alt="" width="100%" /></p>
-
 ## Selected work
 
-Recent work spans motion-rich storefronts, business software and playable worlds.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://garden-dreams-florist.vercel.app"><img src="https://raw.githubusercontent.com/5erax/astraa-scroll-portfolio/main/public/media/garden-dreams-preview.webp" alt="Garden Dreams storefront preview from my portfolio" width="100%" /></a>
-<h3>Garden Dreams</h3>
-<p>A Vietnamese florist storefront with expressive motion, product discovery, a cart and customer order flows.</p>
-<p><sub>React / Motion / Supabase</sub></p>
-<p><a href="https://garden-dreams-florist.vercel.app">View website ↗</a> &nbsp; <a href="https://github.com/5erax/garden-dreams-florist">Source</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://net-studio-nu.vercel.app"><img src="https://raw.githubusercontent.com/5erax/astraa-scroll-portfolio/main/public/media/net-studio-preview.webp" alt="Nét Studio website preview from my portfolio" width="100%" /></a>
-<h3>Nét Studio</h3>
-<p>A bilingual creative studio website with engraved illustrations, palette switching and carefully choreographed interaction.</p>
-<p><sub>React / GSAP / Lenis</sub></p>
-<p><a href="https://net-studio-nu.vercel.app">View website ↗</a> &nbsp; <a href="https://github.com/5erax/net-studio">Source</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/5erax/nexuserp"><img src="./assets/nexuserp-cover.svg?v=astraa-oct26" alt="NexusERP original animated cover art: modules connected into one structured system" width="100%" /></a>
-<h3>NexusERP</h3>
-<p>A multi-branch ERP built as a modular monolith. IAM and organization are implemented; catalog and inventory work is in progress.</p>
-<p><sub>Next.js / NestJS / PostgreSQL / Prisma</sub></p>
-<p><a href="https://github.com/5erax/nexuserp">Explore the system ↗</a> &nbsp; <a href="https://github.com/users/5erax/projects/5">Roadmap</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://newlife-web-gray.vercel.app"><img src="./assets/newlife-cover.svg?v=astraa-oct26" alt="NewLife original animated cover art: branching paths connect choices across a life" width="100%" /></a>
-<h3>NewLife</h3>
-<p>A Vietnamese life simulation with branching choices, careers, relationships and local saves. Playable offline after the first full load.</p>
-<p><sub>React / TypeScript / IndexedDB / PWA</sub></p>
-<p><a href="https://newlife-web-gray.vercel.app">Play in browser ↗</a> &nbsp; <a href="https://github.com/5erax/newlife-web">Source</a></p>
-</td>
-</tr>
-</table>
-
-### ProZ0 · Current focus
+### ProZ0
+**Current focus · Browser game**
 
 <a href="https://proz0-colony.vercel.app">
-  <img src="./assets/proz0-cover.svg?v=astraa-oct26" alt="ProZ0 original animated cover art: an ancient gateway on a floating pixel-art island" width="100%" />
+  <img src="./assets/proz0-cover.svg?v=astraa-oct26" alt="ProZ0 cover illustration: a glowing ancient gateway on a floating island" width="100%" />
 </a>
 
-A browser-first **pixel-art survival and exploration sandbox** about rebuilding civilization and discovering an older one. Colony depth and industry are the current development direction.
+A pixel-art survival sandbox about rebuilding civilization and exploring the traces of an older one. Colony depth and industry are in development.
 
-**TypeScript / PixiJS / Vite**  
-[Open browser build ↗](https://proz0-colony.vercel.app) &nbsp; [Source](https://github.com/5erax/ProZ0) &nbsp; [Development board](https://github.com/users/5erax/projects/4/views/1)
+<sub>TypeScript / PixiJS / Vite</sub>
 
-### MediMate AI · Web & mobile
+[Open browser build ↗](https://proz0-colony.vercel.app) &nbsp; · &nbsp; [Source](https://github.com/5erax/ProZ0) &nbsp; · &nbsp; [Development board](https://github.com/users/5erax/projects/4/views/1)
+
+### Garden Dreams
+**Commerce · Interactive storefront**
+
+<a href="https://garden-dreams-florist.vercel.app">
+  <img src="./assets/garden-dreams-preview.jpg" alt="Current Garden Dreams website: editorial typography beside an arched floral photograph" width="100%" />
+</a>
+
+A Vietnamese florist storefront with motion, product discovery, a cart and customer order flows.
+
+<sub>React / Motion / Supabase</sub>
+
+[View website ↗](https://garden-dreams-florist.vercel.app) &nbsp; · &nbsp; [Source](https://github.com/5erax/garden-dreams-florist)
+
+### MediMate AI
+**Healthcare · Web & mobile**
 
 <a href="https://sep-490-fe-medical-ai-assistant.vercel.app">
-  <img src="./assets/medimate-cover.svg?v=prismatic" alt="MediMate AI original animated cover art with a sculptural mint-glass shield" width="100%" />
+  <img src="./assets/medimate-cover.svg?v=prismatic" alt="MediMate AI cover illustration: a sculptural mint-glass shield" width="100%" />
 </a>
 
-An **AI-assisted pre-visit healthcare interface** for symptom intake, care discovery, lab-test information and patient workflows, with a mobile companion.
+An AI-assisted pre-visit interface for symptom intake, care discovery, lab-test information and patient workflows, with a mobile companion.
 
-**React / Vite / MapLibre**  
-[View web app ↗](https://sep-490-fe-medical-ai-assistant.vercel.app) &nbsp; [Web source](https://github.com/5erax/SEP490_FE_MedicalAIAssistant) &nbsp; [Mobile source](https://github.com/5erax/SEP490_MB_MedicalAIAssistant)
+<sub>React / Vite / MapLibre</sub>
+
+[View web app ↗](https://sep-490-fe-medical-ai-assistant.vercel.app) &nbsp; · &nbsp; [Web source](https://github.com/5erax/SEP490_FE_MedicalAIAssistant) &nbsp; · &nbsp; [Mobile source](https://github.com/5erax/SEP490_MB_MedicalAIAssistant)
+
+### Recent builds
+
+**[NexusERP](https://github.com/5erax/nexuserp)**  
+A multi-branch ERP using Next.js, NestJS and PostgreSQL. IAM is implemented; catalog and inventory work is in progress. [Roadmap ↗](https://github.com/users/5erax/projects/5)
+
+**[NewLife](https://github.com/5erax/newlife-web)**  
+A Vietnamese life simulation with branching choices and local saves. Playable offline after its first full load. [Play ↗](https://newlife-web-gray.vercel.app)
+
+**[Nét Studio](https://github.com/5erax/net-studio)**  
+A bilingual studio website with engraved illustrations and choreographed motion, built with React, GSAP and Lenis. [View website ↗](https://net-studio-nu.vercel.app)
+
+<details>
+<summary><strong>View recent project previews</strong></summary>
+
+<br />
+
+**NexusERP**
+
+<a href="https://github.com/5erax/nexuserp"><img src="./assets/nexuserp-cover.svg?v=astraa-oct26" alt="NexusERP cover illustration: connected architectural modules" width="100%" /></a>
+
+**NewLife**
+
+<a href="https://newlife-web-gray.vercel.app"><img src="./assets/newlife-cover.svg?v=astraa-oct26" alt="NewLife cover illustration: choices branching into different futures" width="100%" /></a>
+
+**Nét Studio**
+
+<a href="https://net-studio-nu.vercel.app"><img src="./assets/net-studio-preview.jpg" alt="Nét Studio website: an engraved cobalt illustration surrounding the main headline" width="100%" /></a>
+
+</details>
 
 <details>
 <summary><strong>More projects</strong></summary>
 
 <br />
 
-| Project | Focus |
-| :--- | :--- |
-| [FinGenie](https://github.com/5erax/FinGenie) | AI-assisted personal finance across web and mobile. |
-| [GeoConnect](https://github.com/5erax/geoconnect) | Interactive maps, location-based communities and real-time messaging. |
-| [CVmate](https://github.com/5erax/CVmate) | CV creation, ATS-oriented feedback and interview practice. |
-| [Ecommerce Mobile](https://github.com/5erax/ecomerce-mobile) | Product browsing, wishlists, carts and order history with React Native and Expo. |
-| [MLN Web](https://github.com/5erax/MLN-web) | Interactive lessons, timelines and quizzes. |
+- **[FinGenie](https://github.com/5erax/FinGenie)**: AI-assisted personal finance across web and mobile.
+- **[GeoConnect](https://github.com/5erax/geoconnect)**: maps, location-based communities and real-time messaging.
+- **[CVmate](https://github.com/5erax/CVmate)**: CV creation, ATS-oriented feedback and interview practice.
+- **[Ecommerce Mobile](https://github.com/5erax/ecomerce-mobile)**: a shopping experience with React Native and Expo.
+- **[MLN Web](https://github.com/5erax/MLN-web)**: interactive lessons, timelines and quizzes.
 
 [Browse all repositories ↗](https://github.com/5erax?tab=repositories)
 
@@ -97,32 +101,41 @@ An **AI-assisted pre-visit healthcare interface** for symptom intake, care disco
 
 ## Interface lab
 
-<img src="./assets/interface-lab.svg?v=prismatic" alt="Original motion studies: expressive type, a spring toggle and a shared-element card transition" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/interface-lab-mobile.svg?v=readable" />
+  <img src="./assets/interface-lab.svg?v=prismatic" alt="Original motion studies: expressive type, a spring toggle and a shared-element card transition" width="100%" />
+</picture>
 
-**Visual hierarchy.** Type, spacing and composition that guide attention.  
-**Interaction.** Feedback that makes a control feel responsive.  
-**Motion.** Timing and continuity that explain a change of state.
+**Hierarchy, feedback and continuity.** I use type to guide attention, interaction to acknowledge actions, and motion to explain changes of state.
 
-### Explore my portfolios
+<details>
+<summary><strong>Explore my portfolio experiences</strong></summary>
 
-| Experience | Visual direction |
-| :--- | :--- |
-| [Scroll journal ↗](https://astraa1.vercel.app) | Paper tears, flipping postcards and a scroll-driven project story. [Source](https://github.com/5erax/astraa-scroll-portfolio) |
-| [Desktop portfolio ↗](https://astraa-pf.vercel.app) | A playful desktop with windows, folders, Spotlight and a pastel dock. [Source](https://github.com/5erax/personal-portfolio) |
-| [Interfaces in motion](https://github.com/5erax/Pflio) | A cinematic WebGL portfolio with shader atmosphere and a shared scroll timeline. |
+<br />
 
-<sub>Project covers and Interface Lab are original SVG illustrations. Website previews come from my portfolio. Nét Studio and the portfolio experiences build on credited templates; sources and adaptations are documented in their repositories.</sub>
+- **[Scroll journal ↗](https://astraa1.vercel.app)**: paper tears, flipping postcards and a scroll-driven project story. [Source](https://github.com/5erax/astraa-scroll-portfolio)
+- **[Desktop portfolio ↗](https://astraa-pf.vercel.app)**: windows, folders, Spotlight and a pastel dock. [Source](https://github.com/5erax/personal-portfolio)
+- **[Interfaces in motion](https://github.com/5erax/Pflio)**: a cinematic WebGL portfolio with shader atmosphere and a shared scroll timeline.
+
+</details>
+
+<sub>Project covers and Interface Lab are original SVG illustrations. Website previews were captured from the live sites. Template credits and adaptations are documented in the relevant repositories.</sub>
 
 ## Behind the interface
 
-I work on the visual layer and the structure behind it: reusable components, APIs, persistence and business rules.
+I build the visual layer and the structure behind it, from reusable components to persistence and business rules.
 
-| Focus | Tools |
-| :--- | :--- |
-| **UI & motion** | React, Next.js, TypeScript, Figma, GSAP, Motion, PixiJS |
-| **Mobile** | React Native, Expo |
-| **Backend & data** | Node.js, NestJS, Spring Boot, PostgreSQL, Supabase, Prisma |
-| **Delivery** | Git, Docker, GitHub Actions |
+**UI & motion**  
+React, Next.js, TypeScript, Figma, GSAP, Motion, PixiJS
+
+**Mobile**  
+React Native, Expo
+
+**Backend & data**  
+Node.js, NestJS, Spring Boot, PostgreSQL, Supabase, Prisma
+
+**Delivery**  
+Git, Docker, GitHub Actions
 
 <details>
   <summary><strong>My journey</strong></summary>
@@ -165,10 +178,8 @@ I work on the visual layer and the structure behind it: reusable components, API
 
 </details>
 
-<p><img src="./assets/profile-divider.svg?v=prismatic" alt="" width="100%" /></p>
+## Let's build something that feels right.
 
-## Have an interface worth building?
-
-I'm open to frontend and fullstack opportunities where **UI and interaction matter**.
+Open to frontend and fullstack opportunities where **UI and interaction matter**.
 
 [lagna0175@gmail.com](mailto:lagna0175@gmail.com)
