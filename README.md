@@ -7,9 +7,9 @@
 
 I'm **Astraa**, based in Vietnam. I build expressive interfaces and the components, APIs and systems behind them.
 
-**[Explore my portfolio ↗](https://astraa1.vercel.app)** &nbsp; · &nbsp; **[Get in touch](mailto:lagna0175@gmail.com)**
+**[Explore my portfolio](https://astraa1.vercel.app)** &nbsp; · &nbsp; **[Get in touch](mailto:lagna0175@gmail.com)**
 
-[Selected work](#selected-work) &nbsp; / &nbsp; [Interface lab](#interface-lab) &nbsp; / &nbsp; [Behind the interface](#behind-the-interface)
+[Selected&nbsp;work](#selected-work) &nbsp; / &nbsp; [Interface&nbsp;lab](#interface-lab) &nbsp; / &nbsp; [Behind&nbsp;the&nbsp;interface](#behind-the-interface)
 
 ## Selected work
 
@@ -24,7 +24,7 @@ A pixel-art survival sandbox about rebuilding civilization and exploring the tra
 
 <sub>TypeScript / PixiJS / Vite</sub>
 
-[Open browser build ↗](https://proz0-colony.vercel.app) &nbsp; · &nbsp; [Source](https://github.com/5erax/ProZ0) &nbsp; · &nbsp; [Development board](https://github.com/users/5erax/projects/4/views/1)
+[Open browser build](https://proz0-colony.vercel.app) &nbsp; · &nbsp; [Source](https://github.com/5erax/ProZ0) &nbsp; · &nbsp; [Development board](https://github.com/users/5erax/projects/4/views/1)
 
 ### Garden Dreams
 **Commerce · Interactive storefront**
@@ -37,7 +37,7 @@ A Vietnamese florist storefront with motion, product discovery, a cart and custo
 
 <sub>React / Motion / Supabase</sub>
 
-[View website ↗](https://garden-dreams-florist.vercel.app) &nbsp; · &nbsp; [Source](https://github.com/5erax/garden-dreams-florist)
+[View website](https://garden-dreams-florist.vercel.app) &nbsp; · &nbsp; [Source](https://github.com/5erax/garden-dreams-florist)
 
 ### MediMate AI
 **Healthcare · Web & mobile**
@@ -50,18 +50,18 @@ An AI-assisted pre-visit interface for symptom intake, care discovery, lab-test 
 
 <sub>React / Vite / MapLibre</sub>
 
-[View web app ↗](https://sep-490-fe-medical-ai-assistant.vercel.app) &nbsp; · &nbsp; [Web source](https://github.com/5erax/SEP490_FE_MedicalAIAssistant) &nbsp; · &nbsp; [Mobile source](https://github.com/5erax/SEP490_MB_MedicalAIAssistant)
+[View web app](https://sep-490-fe-medical-ai-assistant.vercel.app) &nbsp; · &nbsp; [Web source](https://github.com/5erax/SEP490_FE_MedicalAIAssistant) &nbsp; · &nbsp; [Mobile source](https://github.com/5erax/SEP490_MB_MedicalAIAssistant)
 
 ### Recent builds
 
 **[NexusERP](https://github.com/5erax/nexuserp)**  
-A multi-branch ERP using Next.js, NestJS and PostgreSQL. IAM is implemented; catalog and inventory work is in progress. [Roadmap ↗](https://github.com/users/5erax/projects/5)
+A multi-branch ERP using Next.js, NestJS and PostgreSQL. IAM is implemented; catalog and inventory work is in progress. [Roadmap](https://github.com/users/5erax/projects/5)
 
 **[NewLife](https://github.com/5erax/newlife-web)**  
-A Vietnamese life simulation with branching choices and local saves. Playable offline after its first full load. [Play ↗](https://newlife-web-gray.vercel.app)
+A Vietnamese life simulation with branching choices and local saves. Playable offline after its first full load. [Play](https://newlife-web-gray.vercel.app)
 
 **[Nét Studio](https://github.com/5erax/net-studio)**  
-A bilingual studio website with engraved illustrations and choreographed motion, built with React, GSAP and Lenis. [View website ↗](https://net-studio-nu.vercel.app)
+A bilingual studio website with engraved illustrations and choreographed motion, built with React, GSAP and Lenis. [View website](https://net-studio-nu.vercel.app)
 
 <details>
 <summary><strong>View recent project previews</strong></summary>
@@ -93,7 +93,7 @@ A bilingual studio website with engraved illustrations and choreographed motion,
 - **[Ecommerce Mobile](https://github.com/5erax/ecomerce-mobile)**: a shopping experience with React Native and Expo.
 - **[MLN Web](https://github.com/5erax/MLN-web)**: interactive lessons, timelines and quizzes.
 
-[Browse all repositories ↗](https://github.com/5erax?tab=repositories)
+[Browse all repositories](https://github.com/5erax?tab=repositories)
 
 </details>
 
@@ -113,13 +113,13 @@ A bilingual studio website with engraved illustrations and choreographed motion,
 
 <br />
 
-- **[Scroll journal ↗](https://astraa1.vercel.app)**: paper tears, flipping postcards and a scroll-driven project story. [Source](https://github.com/5erax/astraa-scroll-portfolio)
-- **[Desktop portfolio ↗](https://astraa-pf.vercel.app)**: windows, folders, Spotlight and a pastel dock. [Source](https://github.com/5erax/personal-portfolio)
+- **[Scroll journal](https://astraa1.vercel.app)**: paper tears, flipping postcards and a scroll-driven project story. [Source](https://github.com/5erax/astraa-scroll-portfolio)
+- **[Desktop portfolio](https://astraa-pf.vercel.app)**: windows, folders, Spotlight and a pastel dock. [Source](https://github.com/5erax/personal-portfolio)
 - **[Interfaces in motion](https://github.com/5erax/Pflio)**: a cinematic WebGL portfolio with shader atmosphere and a shared scroll timeline.
 
 </details>
 
-<sub>Project covers and Interface Lab are original SVG illustrations. Website previews were captured from the live sites. Template credits and adaptations are documented in the relevant repositories.</sub>
+<sub>Cover art and motion studies are SVG. Website previews are live-site captures. See the repositories for template credits.</sub>
 
 ## Behind the interface
 
