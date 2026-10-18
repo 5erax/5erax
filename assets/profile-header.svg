@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Lagna. — Fullstack developer</title>
+  <title id="title">Astraa - Fullstack developer</title>
   <desc id="desc">A violet aurora drifts behind the Lagna signature. Luminous orbital trails circle a dark sphere while a soft light sweeps across the lettering.</desc>
   <defs>
     <linearGradient id="space" x1="0" y1="0" x2="1280" y2="480" gradientUnits="userSpaceOnUse">
@@ -53,7 +53,7 @@
     <clipPath id="frame"><rect x="1" y="1" width="1278" height="478" rx="28"/></clipPath>
     <clipPath id="sphere"><circle r="127"/></clipPath>
     <clipPath id="lettering">
-      <text x="69" y="251" font-family="'Segoe UI',Arial,sans-serif" font-weight="750" font-size="146" letter-spacing="-8">Lagna.</text>
+      <text x="69" y="251" font-family="'Segoe UI',Arial,sans-serif" font-weight="750" font-size="146" letter-spacing="-8">Astraa</text>
     </clipPath>
     <style>
       .spectral-ring { animation: spectral-tilt 18s ease-in-out infinite; }
@@ -217,8 +217,8 @@
     </g>
     <g font-family="'Segoe UI',Arial,sans-serif">
       <text x="76" y="81" fill="#C1A9E4" font-size="16" font-weight="600" letter-spacing="5">5ERAX / DIGITAL ORBIT</text>
-      <text class="chromatic-edge" x="72" y="255" fill="none" stroke="#A68CE8" stroke-opacity=".16" stroke-width="1" font-size="146" font-weight="750" letter-spacing="-8">Lagna.</text>
-      <text x="69" y="251" fill="url(#signature)" font-size="146" font-weight="750" letter-spacing="-8">Lagna.</text>
+      <text class="chromatic-edge" x="72" y="255" fill="none" stroke="#A68CE8" stroke-opacity=".16" stroke-width="1" font-size="146" font-weight="750" letter-spacing="-8">Astraa</text>
+      <text x="69" y="251" fill="url(#signature)" font-size="146" font-weight="750" letter-spacing="-8">Astraa</text>
       <g clip-path="url(#lettering)">
         <path class="shimmer" d="M20 100H145L225 292H100Z" fill="url(#sweep)"/>
       </g>
@@ -226,7 +226,7 @@
       <g fill="#A99BBC" font-size="20" letter-spacing=".4">
         <text class="ticker-one" x="79" y="350">Expressive interfaces. Thoughtful motion.</text>
         <text class="ticker-two" x="79" y="350">From the first pixel to the final endpoint.</text>
-        <text class="ticker-three" x="79" y="350">Currently building ProZ0.</text>
+        <text class="ticker-three" x="79" y="350">Building worlds, interfaces and systems.</text>
       </g>
       <path d="M65 407H1215" stroke="url(#horizon)" stroke-width=".8"/>
       <path class="horizon-ray" d="M65 407H1215" pathLength="1000" stroke="url(#horizon)" stroke-width="1.5" stroke-dasharray="70 930" stroke-linecap="round"/>

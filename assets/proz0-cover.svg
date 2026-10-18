@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="500" viewBox="0 0 1280 500" fill="none" role="img" aria-labelledby="title desc">
-<title id="title">ProZ0 — current focus, in development</title>
+<title id="title">ProZ0 - current focus, in development</title>
 <desc id="desc">Original animated cover artwork for a pixel-art survival sandbox: an ancient illuminated gateway on a terraced floating island, luminous waterfalls, crystal pines and drifting mist. This is an illustration, not a gameplay screenshot.</desc>
 <defs>
 <linearGradient id="bg" x2="1280" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1822"/><stop offset=".52" stop-color="#101F2B"/><stop offset="1" stop-color="#193437"/></linearGradient>
@@ -115,7 +115,7 @@
 <text x="68" y="370" fill="#819DAB" font-size="17" letter-spacing="1.3">PIXEL ART / EXPLORATION / SURVIVAL</text>
 <path d="M67 411H591" stroke="#416274" stroke-opacity=".4"/>
 <text x="68" y="452" fill="#C6D4CF" font-size="16">TypeScript · PixiJS · Vite</text>
-<text x="1205" y="471" text-anchor="end" fill="#657A8B" font-size="10" letter-spacing="1.5">PROJECT COVER / PHASE 1</text>
+<text x="1205" y="471" text-anchor="end" fill="#657A8B" font-size="10" letter-spacing="1.5">PROJECT COVER / IN DEVELOPMENT</text>
 </g>
 </g><rect x="1" y="1" width="1278" height="498" rx="26" stroke="url(#border)"/>
 </svg>
